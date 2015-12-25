@@ -1,5 +1,6 @@
 # Own
 helps/_download.coffee
+helps/*.js
 
 # NPM
 node_modules
