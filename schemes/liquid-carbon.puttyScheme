@@ -1,0 +1,27 @@
+{
+    "name": "Liquid Carbon",
+    "colors": {
+        "Default Foreground": "#afc2c2",
+        "Default Bold Foreground": "#ffffff",
+        "Default Background": "#303030",
+        "Default Bold Background": "#303030",
+        "Cursor Text": "#ffffff",
+        "Cursor Colour": "#afc2c2",
+        "ANSI Black": "#000000",
+        "ANSI Black Bold": "#000000",
+        "ANSI Red": "#ff3030",
+        "ANSI Red Bold": "#ff3030",
+        "ANSI Green": "#559a70",
+        "ANSI Green Bold": "#559a70",
+        "ANSI Yellow": "#ccac00",
+        "ANSI Yellow Bold": "#ccac00",
+        "ANSI Blue": "#0099cc",
+        "ANSI Blue Bold": "#0099cc",
+        "ANSI Magenta": "#cc69c8",
+        "ANSI Magenta Bold": "#cc69c8",
+        "ANSI Cyan": "#7ac4cc",
+        "ANSI Cyan Bold": "#7ac4cc",
+        "ANSI White": "#bccccc",
+        "ANSI White Bold": "#bccccc"
+    }
+}

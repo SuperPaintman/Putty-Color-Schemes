@@ -1,0 +1,27 @@
+{
+    "name": "Man Page",
+    "colors": {
+        "Default Foreground": "#000000",
+        "Default Bold Foreground": "#000000",
+        "Default Background": "#fef49c",
+        "Default Bold Background": "#fef49c",
+        "Cursor Text": "#7f7f7f",
+        "Cursor Colour": "#000000",
+        "ANSI Black": "#000000",
+        "ANSI Black Bold": "#666666",
+        "ANSI Red": "#cc0000",
+        "ANSI Red Bold": "#e50000",
+        "ANSI Green": "#00a600",
+        "ANSI Green Bold": "#00d900",
+        "ANSI Yellow": "#999900",
+        "ANSI Yellow Bold": "#e5e500",
+        "ANSI Blue": "#0000b2",
+        "ANSI Blue Bold": "#0000ff",
+        "ANSI Magenta": "#b200b2",
+        "ANSI Magenta Bold": "#e500e5",
+        "ANSI Cyan": "#00a6b2",
+        "ANSI Cyan Bold": "#00e5e5",
+        "ANSI White": "#cccccc",
+        "ANSI White Bold": "#e5e5e5"
+    }
+}

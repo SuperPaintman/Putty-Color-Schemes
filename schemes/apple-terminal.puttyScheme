@@ -1,0 +1,27 @@
+{
+    "name": "Apple Terminal",
+    "colors": {
+        "Default Foreground": "#e6e6e6",
+        "Default Bold Foreground": "#ffffff",
+        "Default Background": "#000000",
+        "Default Bold Background": "#000000",
+        "Cursor Text": "#bbbbbb",
+        "Cursor Colour": "#ffffff",
+        "ANSI Black": "#000000",
+        "ANSI Black Bold": "#646666",
+        "ANSI Red": "#bb0000",
+        "ANSI Red Bold": "#ff5555",
+        "ANSI Green": "#00bb00",
+        "ANSI Green Bold": "#64d238",
+        "ANSI Yellow": "#bbbb00",
+        "ANSI Yellow Bold": "#ffff55",
+        "ANSI Blue": "#0000bb",
+        "ANSI Blue Bold": "#3442f1",
+        "ANSI Magenta": "#bb00bb",
+        "ANSI Magenta Bold": "#ff55ff",
+        "ANSI Cyan": "#00bbbb",
+        "ANSI Cyan Bold": "#55ffff",
+        "ANSI White": "#e0e0e0",
+        "ANSI White Bold": "#ffffff"
+    }
+}

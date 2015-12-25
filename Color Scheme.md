@@ -3,7 +3,7 @@
 ## Default
 * **Default Foreground**        [*Colour0*]   - `187, 187, 187`
 * **Default Bold Foreground**   [*Colour1*]   - `255, 255, 255`
-* **Default Background**        [*Colour4*]   - `0, 0, 0`
+* **Default Background**        [*Colour2*]   - `0, 0, 0`
 * **Default Bold Background**   [*Colour3*]   - `85, 85, 85`
 * **Cursor Text**               [*Colour4*]   - `0, 0, 0`
 * **Cursor Colour**             [*Colour5*]   - `0, 255, 0`
@@ -28,7 +28,7 @@
 ## Monokai
 * **Default Foreground**        [*Colour0*]   - `248, 248, 242`
 * **Default Bold Foreground**   [*Colour1*]   - `248, 248, 242`
-* **Default Background**        [*Colour4*]   - `39, 40, 34`
+* **Default Background**        [*Colour2*]   - `39, 40, 34`
 * **Default Bold Background**   [*Colour3*]   - `39, 40, 34`
 * **Cursor Text**               [*Colour4*]   - `0, 0, 0`
 * **Cursor Colour**             [*Colour5*]   - `255, 128, 0`
@@ -53,7 +53,7 @@
 ## Twilight
 * **Default Foreground**        [*Colour0*]   - `255, 255, 212`
 * **Default Bold Foreground**   [*Colour1*]   - `255, 255, 212`
-* **Default Background**        [*Colour4*]   - `20, 20, 20`
+* **Default Background**        [*Colour2*]   - `20, 20, 20`
 * **Default Bold Background**   [*Colour3*]   - `20, 20, 20`
 * **Cursor Text**               [*Colour4*]   - `255, 255, 255`
 * **Cursor Colour**             [*Colour5*]   - `255, 255, 212`

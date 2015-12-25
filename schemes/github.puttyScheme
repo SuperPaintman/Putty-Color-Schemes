@@ -1,0 +1,27 @@
+{
+    "name": "Github",
+    "colors": {
+        "Default Foreground": "#3e3e3e",
+        "Default Bold Foreground": "#c95500",
+        "Default Background": "#f4f4f4",
+        "Default Bold Background": "#f4f4f4",
+        "Cursor Text": "#3f3f3f",
+        "Cursor Colour": "#3e3e3e",
+        "ANSI Black": "#3e3e3e",
+        "ANSI Black Bold": "#666666",
+        "ANSI Red": "#970b16",
+        "ANSI Red Bold": "#de0000",
+        "ANSI Green": "#07962a",
+        "ANSI Green Bold": "#87d5a2",
+        "ANSI Yellow": "#f8eec7",
+        "ANSI Yellow Bold": "#f1d007",
+        "ANSI Blue": "#003e8a",
+        "ANSI Blue Bold": "#2e6cba",
+        "ANSI Magenta": "#e94691",
+        "ANSI Magenta Bold": "#ffa29f",
+        "ANSI Cyan": "#89d1ec",
+        "ANSI Cyan Bold": "#1cfafe",
+        "ANSI White": "#ffffff",
+        "ANSI White Bold": "#ffffff"
+    }
+}

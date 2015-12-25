@@ -1,0 +1,27 @@
+{
+    "name": "Birds Of Paradise",
+    "colors": {
+        "Default Foreground": "#e0dbb7",
+        "Default Bold Foreground": "#fff8d8",
+        "Default Background": "#2a1f1d",
+        "Default Bold Background": "#2a1f1d",
+        "Cursor Text": "#573d26",
+        "Cursor Colour": "#573d26",
+        "ANSI Black": "#573d26",
+        "ANSI Black Bold": "#9b6c4a",
+        "ANSI Red": "#be2d26",
+        "ANSI Red Bold": "#e84627",
+        "ANSI Green": "#6ba18a",
+        "ANSI Green Bold": "#95d8ba",
+        "ANSI Yellow": "#e99d2a",
+        "ANSI Yellow Bold": "#d0d150",
+        "ANSI Blue": "#5a86ad",
+        "ANSI Blue Bold": "#b8d3ed",
+        "ANSI Magenta": "#ac80a6",
+        "ANSI Magenta Bold": "#d19ecb",
+        "ANSI Cyan": "#74a6ad",
+        "ANSI Cyan Bold": "#93cfd7",
+        "ANSI White": "#e0dbb7",
+        "ANSI White Bold": "#fff9d5"
+    }
+}

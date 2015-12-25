@@ -1,0 +1,27 @@
+{
+    "name": "Neopolitan",
+    "colors": {
+        "Default Foreground": "#ffffff",
+        "Default Bold Foreground": "#ffffff",
+        "Default Background": "#171310",
+        "Default Bold Background": "#171310",
+        "Cursor Text": "#ffffff",
+        "Cursor Colour": "#ffffff",
+        "ANSI Black": "#171310",
+        "ANSI Black Bold": "#171310",
+        "ANSI Red": "#800000",
+        "ANSI Red Bold": "#800000",
+        "ANSI Green": "#61ce3c",
+        "ANSI Green Bold": "#61ce3c",
+        "ANSI Yellow": "#fbde2d",
+        "ANSI Yellow Bold": "#fbde2d",
+        "ANSI Blue": "#253b76",
+        "ANSI Blue Bold": "#253b76",
+        "ANSI Magenta": "#ff0080",
+        "ANSI Magenta Bold": "#ff0080",
+        "ANSI Cyan": "#8da6ce",
+        "ANSI Cyan Bold": "#8da6ce",
+        "ANSI White": "#f8f8f8",
+        "ANSI White Bold": "#f8f8f8"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Papirus Dark",
+    "colors": {
+        "Default Foreground": "#d1c3b8",
+        "Default Bold Foreground": "#d1c3b8",
+        "Default Background": "#2e2c28",
+        "Default Bold Background": "#2e2c28",
+        "Cursor Text": "#d1c3b8",
+        "Cursor Colour": "#d1c3b8",
+        "ANSI Black": "#717370",
+        "ANSI Black Bold": "#2e2c28",
+        "ANSI Red": "#8c735a",
+        "ANSI Red Bold": "#998a7a",
+        "ANSI Green": "#aec495",
+        "ANSI Green Bold": "#b4cc99",
+        "ANSI Yellow": "#bfbb99",
+        "ANSI Yellow Bold": "#e6e3ca",
+        "ANSI Blue": "#88a1ba",
+        "ANSI Blue Bold": "#88a1ba",
+        "ANSI Magenta": "#6d6871",
+        "ANSI Magenta Bold": "#948d99",
+        "ANSI Cyan": "#5c5346",
+        "ANSI Cyan Bold": "#7a8735",
+        "ANSI White": "#c8b972",
+        "ANSI White Bold": "#e4dd96"
+    }
+}

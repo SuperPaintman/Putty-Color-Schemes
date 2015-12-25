@@ -1,0 +1,27 @@
+{
+    "name": "Highway",
+    "colors": {
+        "Default Foreground": "#ededed",
+        "Default Bold Foreground": "#fff8d8",
+        "Default Background": "#222225",
+        "Default Bold Background": "#222225",
+        "Cursor Text": "#e0d9b9",
+        "Cursor Colour": "#ededed",
+        "ANSI Black": "#000000",
+        "ANSI Black Bold": "#5d504a",
+        "ANSI Red": "#d00e18",
+        "ANSI Red Bold": "#f07e18",
+        "ANSI Green": "#138034",
+        "ANSI Green Bold": "#b1d130",
+        "ANSI Yellow": "#ffcb3e",
+        "ANSI Yellow Bold": "#fff120",
+        "ANSI Blue": "#006bb3",
+        "ANSI Blue Bold": "#4fc2fd",
+        "ANSI Magenta": "#6b2775",
+        "ANSI Magenta Bold": "#de0071",
+        "ANSI Cyan": "#384564",
+        "ANSI Cyan Bold": "#5d504a",
+        "ANSI White": "#ededed",
+        "ANSI White Bold": "#ffffff"
+    }
+}

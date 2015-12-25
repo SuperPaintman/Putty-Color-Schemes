@@ -1,0 +1,27 @@
+{
+    "name": "Zenburn",
+    "colors": {
+        "Default Foreground": "#dcdccc",
+        "Default Bold Foreground": "#dcdccc",
+        "Default Background": "#3f3f3f",
+        "Default Bold Background": "#3f3f3f",
+        "Cursor Text": "#73635a",
+        "Cursor Colour": "#000000",
+        "ANSI Black": "#4d4d4d",
+        "ANSI Black Bold": "#709080",
+        "ANSI Red": "#705050",
+        "ANSI Red Bold": "#dca3a3",
+        "ANSI Green": "#60b48a",
+        "ANSI Green Bold": "#c3bf9f",
+        "ANSI Yellow": "#f0dfaf",
+        "ANSI Yellow Bold": "#e0cf9f",
+        "ANSI Blue": "#506070",
+        "ANSI Blue Bold": "#94bff3",
+        "ANSI Magenta": "#dc8cc3",
+        "ANSI Magenta Bold": "#ec93d3",
+        "ANSI Cyan": "#8cd0d3",
+        "ANSI Cyan Bold": "#93e0e3",
+        "ANSI White": "#dcdccc",
+        "ANSI White Bold": "#ffffff"
+    }
+}

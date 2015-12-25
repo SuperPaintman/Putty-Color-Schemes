@@ -1,0 +1,27 @@
+{
+    "name": "Symfonic",
+    "colors": {
+        "Default Foreground": "#ffffff",
+        "Default Bold Foreground": "#ff8400",
+        "Default Background": "#000000",
+        "Default Bold Background": "#000000",
+        "Cursor Text": "#dc322f",
+        "Cursor Colour": "#ffffff",
+        "ANSI Black": "#000000",
+        "ANSI Black Bold": "#1b1d21",
+        "ANSI Red": "#dc322f",
+        "ANSI Red Bold": "#dc322f",
+        "ANSI Green": "#56db3a",
+        "ANSI Green Bold": "#56db3a",
+        "ANSI Yellow": "#ff8400",
+        "ANSI Yellow Bold": "#ff8400",
+        "ANSI Blue": "#0084d4",
+        "ANSI Blue Bold": "#0084d4",
+        "ANSI Magenta": "#b729d9",
+        "ANSI Magenta Bold": "#b729d9",
+        "ANSI Cyan": "#ccccff",
+        "ANSI Cyan Bold": "#ccccff",
+        "ANSI White": "#ffffff",
+        "ANSI White Bold": "#ffffff"
+    }
+}

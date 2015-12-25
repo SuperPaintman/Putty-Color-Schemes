@@ -1,0 +1,27 @@
+{
+    "name": "Invisibone",
+    "colors": {
+        "Default Foreground": "#a0a0a0",
+        "Default Bold Foreground": "#cfcfcf",
+        "Default Background": "#232323",
+        "Default Bold Background": "#232323",
+        "Cursor Text": "#a0a0a0",
+        "Cursor Colour": "#a0a0a0",
+        "ANSI Black": "#303030",
+        "ANSI Black Bold": "#686868",
+        "ANSI Red": "#d370a3",
+        "ANSI Red Bold": "#ffa7da",
+        "ANSI Green": "#6d9e3f",
+        "ANSI Green Bold": "#a3d572",
+        "ANSI Yellow": "#b58858",
+        "ANSI Yellow Bold": "#efbd8b",
+        "ANSI Blue": "#6095c5",
+        "ANSI Blue Bold": "#98cbfe",
+        "ANSI Magenta": "#ac7bde",
+        "ANSI Magenta Bold": "#e5b0ff",
+        "ANSI Cyan": "#3ba275",
+        "ANSI Cyan Bold": "#75daa9",
+        "ANSI White": "#cfcfcf",
+        "ANSI White Bold": "#ffffff"
+    }
+}

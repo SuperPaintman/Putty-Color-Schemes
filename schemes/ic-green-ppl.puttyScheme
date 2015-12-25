@@ -1,0 +1,27 @@
+{
+    "name": "Ic Green Ppl",
+    "colors": {
+        "Default Foreground": "#d9efd3",
+        "Default Bold Foreground": "#9fff6d",
+        "Default Background": "#3a3d3f",
+        "Default Bold Background": "#3a3d3f",
+        "Cursor Text": "#42ff58",
+        "Cursor Colour": "#d9efd3",
+        "ANSI Black": "#1f1f1f",
+        "ANSI Black Bold": "#032710",
+        "ANSI Red": "#fb002a",
+        "ANSI Red Bold": "#a7ff3f",
+        "ANSI Green": "#339c24",
+        "ANSI Green Bold": "#9fff6d",
+        "ANSI Yellow": "#659b25",
+        "ANSI Yellow Bold": "#d2ff6d",
+        "ANSI Blue": "#149b45",
+        "ANSI Blue Bold": "#72ffb5",
+        "ANSI Magenta": "#53b82c",
+        "ANSI Magenta Bold": "#50ff3e",
+        "ANSI Cyan": "#2cb868",
+        "ANSI Cyan Bold": "#22ff71",
+        "ANSI White": "#e0ffef",
+        "ANSI White Bold": "#daefd0"
+    }
+}

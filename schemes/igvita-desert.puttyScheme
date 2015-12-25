@@ -1,0 +1,27 @@
+{
+    "name": "Igvita Desert",
+    "colors": {
+        "Default Foreground": "#ffffff",
+        "Default Bold Foreground": "#ffffff",
+        "Default Background": "#333333",
+        "Default Bold Background": "#555555",
+        "Cursor Text": "#000000",
+        "Cursor Colour": "#00ff00",
+        "ANSI Black": "#4d4d4d",
+        "ANSI Black Bold": "#555555",
+        "ANSI Red": "#ff2b2b",
+        "ANSI Red Bold": "#ff5555",
+        "ANSI Green": "#98fb98",
+        "ANSI Green Bold": "#55ff55",
+        "ANSI Yellow": "#f0e68c",
+        "ANSI Yellow Bold": "#ffff55",
+        "ANSI Blue": "#cd853f",
+        "ANSI Blue Bold": "#87ceeb",
+        "ANSI Magenta": "#ffdead",
+        "ANSI Magenta Bold": "#ff55ff",
+        "ANSI Cyan": "#ffa0a0",
+        "ANSI Cyan Bold": "#ffd700",
+        "ANSI White": "#f5deb3",
+        "ANSI White Bold": "#ffffff"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Thayer",
+    "colors": {
+        "Default Foreground": "#a0a0a0",
+        "Default Bold Foreground": "#ffffff",
+        "Default Background": "#1b1d1e",
+        "Default Bold Background": "#1b1d1e",
+        "Cursor Text": "#000000",
+        "Cursor Colour": "#fc971f",
+        "ANSI Black": "#1b1d1e",
+        "ANSI Black Bold": "#505354",
+        "ANSI Red": "#f92672",
+        "ANSI Red Bold": "#ff5995",
+        "ANSI Green": "#82b414",
+        "ANSI Green Bold": "#b6e354",
+        "ANSI Yellow": "#fd971f",
+        "ANSI Yellow Bold": "#feed6c",
+        "ANSI Blue": "#56c2d6",
+        "ANSI Blue Bold": "#8cedff",
+        "ANSI Magenta": "#8c54fe",
+        "ANSI Magenta Bold": "#9e6ffe",
+        "ANSI Cyan": "#408080",
+        "ANSI Cyan Bold": "#55aaaa",
+        "ANSI White": "#ccccc6",
+        "ANSI White Bold": "#f8f8f2"
+    }
+}

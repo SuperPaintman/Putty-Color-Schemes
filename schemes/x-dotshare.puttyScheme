@@ -1,0 +1,27 @@
+{
+    "name": "X Dotshare",
+    "colors": {
+        "Default Foreground": "#d7d0c7",
+        "Default Bold Foreground": "#ffffff",
+        "Default Background": "#151515",
+        "Default Bold Background": "#151515",
+        "Cursor Text": "#ff8939",
+        "Cursor Colour": "#d7d0c7",
+        "ANSI Black": "#101010",
+        "ANSI Black Bold": "#404040",
+        "ANSI Red": "#e84f4f",
+        "ANSI Red Bold": "#d23d3d",
+        "ANSI Green": "#b8d68c",
+        "ANSI Green Bold": "#a0cf5d",
+        "ANSI Yellow": "#e1aa5d",
+        "ANSI Yellow Bold": "#f39d21",
+        "ANSI Blue": "#7dc1cf",
+        "ANSI Blue Bold": "#4e9fb1",
+        "ANSI Magenta": "#9b64fb",
+        "ANSI Magenta Bold": "#8542ff",
+        "ANSI Cyan": "#6d878d",
+        "ANSI Cyan Bold": "#42717b",
+        "ANSI White": "#dddddd",
+        "ANSI White Bold": "#dddddd"
+    }
+}

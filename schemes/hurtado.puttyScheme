@@ -1,0 +1,27 @@
+{
+    "name": "Hurtado",
+    "colors": {
+        "Default Foreground": "#dbdbdb",
+        "Default Bold Foreground": "#ffffff",
+        "Default Background": "#000000",
+        "Default Bold Background": "#000000",
+        "Cursor Text": "#bbbbbb",
+        "Cursor Colour": "#ffffff",
+        "ANSI Black": "#575757",
+        "ANSI Black Bold": "#262626",
+        "ANSI Red": "#ff1b00",
+        "ANSI Red Bold": "#d51d00",
+        "ANSI Green": "#a5e055",
+        "ANSI Green Bold": "#a5df55",
+        "ANSI Yellow": "#fbe74a",
+        "ANSI Yellow Bold": "#fbe84a",
+        "ANSI Blue": "#496487",
+        "ANSI Blue Bold": "#89beff",
+        "ANSI Magenta": "#fd5ff1",
+        "ANSI Magenta Bold": "#c001c1",
+        "ANSI Cyan": "#86e9fe",
+        "ANSI Cyan Bold": "#86eafe",
+        "ANSI White": "#cbcccb",
+        "ANSI White Bold": "#dbdbdb"
+    }
+}

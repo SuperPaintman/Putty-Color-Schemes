@@ -1,0 +1,27 @@
+{
+    "name": "Fish Tank",
+    "colors": {
+        "Default Foreground": "#ecf0fe",
+        "Default Bold Foreground": "#f6ffeb",
+        "Default Background": "#232537",
+        "Default Bold Background": "#232537",
+        "Cursor Text": "#fecd5e",
+        "Cursor Colour": "#ecf0fe",
+        "ANSI Black": "#03073c",
+        "ANSI Black Bold": "#6c5b30",
+        "ANSI Red": "#c6004a",
+        "ANSI Red Bold": "#da4b8a",
+        "ANSI Green": "#acf157",
+        "ANSI Green Bold": "#dbffa9",
+        "ANSI Yellow": "#fecd5e",
+        "ANSI Yellow Bold": "#fee6a9",
+        "ANSI Blue": "#525fb8",
+        "ANSI Blue Bold": "#b2befa",
+        "ANSI Magenta": "#986f82",
+        "ANSI Magenta Bold": "#fda5cd",
+        "ANSI Cyan": "#968763",
+        "ANSI Cyan Bold": "#a5bd86",
+        "ANSI White": "#ecf0fc",
+        "ANSI White Bold": "#f6ffec"
+    }
+}

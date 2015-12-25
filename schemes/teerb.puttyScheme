@@ -1,0 +1,27 @@
+{
+    "name": "Teerb",
+    "colors": {
+        "Default Foreground": "#d0d0d0",
+        "Default Bold Foreground": "#e5e5e5",
+        "Default Background": "#262626",
+        "Default Bold Background": "#262626",
+        "Cursor Text": "#e4c9af",
+        "Cursor Colour": "#d0d0d0",
+        "ANSI Black": "#1c1c1c",
+        "ANSI Black Bold": "#1c1c1c",
+        "ANSI Red": "#d68686",
+        "ANSI Red Bold": "#d68686",
+        "ANSI Green": "#aed686",
+        "ANSI Green Bold": "#aed686",
+        "ANSI Yellow": "#d7af87",
+        "ANSI Yellow Bold": "#e4c9af",
+        "ANSI Blue": "#86aed6",
+        "ANSI Blue Bold": "#86aed6",
+        "ANSI Magenta": "#d6aed6",
+        "ANSI Magenta Bold": "#d6aed6",
+        "ANSI Cyan": "#8adbb4",
+        "ANSI Cyan Bold": "#b1e7dd",
+        "ANSI White": "#d0d0d0",
+        "ANSI White Bold": "#efefef"
+    }
+}

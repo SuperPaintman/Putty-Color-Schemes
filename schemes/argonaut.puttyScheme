@@ -1,0 +1,27 @@
+{
+    "name": "Argonaut",
+    "colors": {
+        "Default Foreground": "#fffaf4",
+        "Default Bold Foreground": "#9e9c9a",
+        "Default Background": "#0e1019",
+        "Default Bold Background": "#0e1019",
+        "Cursor Text": "#ff0018",
+        "Cursor Colour": "#ff0018",
+        "ANSI Black": "#232323",
+        "ANSI Black Bold": "#444444",
+        "ANSI Red": "#ff000f",
+        "ANSI Red Bold": "#ff2740",
+        "ANSI Green": "#8ce10b",
+        "ANSI Green Bold": "#abe15b",
+        "ANSI Yellow": "#ffb900",
+        "ANSI Yellow Bold": "#ffd242",
+        "ANSI Blue": "#008df8",
+        "ANSI Blue Bold": "#0092ff",
+        "ANSI Magenta": "#6d43a6",
+        "ANSI Magenta Bold": "#9a5feb",
+        "ANSI Cyan": "#00d8eb",
+        "ANSI Cyan Bold": "#67fff0",
+        "ANSI White": "#ffffff",
+        "ANSI White Bold": "#ffffff"
+    }
+}

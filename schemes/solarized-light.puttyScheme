@@ -1,0 +1,27 @@
+{
+    "name": "Solarized Light",
+    "colors": {
+        "Default Foreground": "#657b83",
+        "Default Bold Foreground": "#586e75",
+        "Default Background": "#fdf6e3",
+        "Default Bold Background": "#eee8d5",
+        "Cursor Text": "#eee8d5",
+        "Cursor Colour": "#657b83",
+        "ANSI Black": "#073642",
+        "ANSI Black Bold": "#002b36",
+        "ANSI Red": "#dc322f",
+        "ANSI Red Bold": "#cb4b16",
+        "ANSI Green": "#859900",
+        "ANSI Green Bold": "#586e75",
+        "ANSI Yellow": "#b58900",
+        "ANSI Yellow Bold": "#657b83",
+        "ANSI Blue": "#268bd2",
+        "ANSI Blue Bold": "#839496",
+        "ANSI Magenta": "#d33682",
+        "ANSI Magenta Bold": "#6c71c4",
+        "ANSI Cyan": "#2aa198",
+        "ANSI Cyan Bold": "#93a1a1",
+        "ANSI White": "#eee8d5",
+        "ANSI White Bold": "#fdf6e3"
+    }
+}

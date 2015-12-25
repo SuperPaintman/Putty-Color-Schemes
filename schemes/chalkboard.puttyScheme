@@ -1,0 +1,27 @@
+{
+    "name": "Chalkboard",
+    "colors": {
+        "Default Foreground": "#d9e6f2",
+        "Default Bold Foreground": "#d96f5f",
+        "Default Background": "#29262f",
+        "Default Bold Background": "#29262f",
+        "Cursor Text": "#d9e6f2",
+        "Cursor Colour": "#d9e6f2",
+        "ANSI Black": "#000000",
+        "ANSI Black Bold": "#323232",
+        "ANSI Red": "#c37372",
+        "ANSI Red Bold": "#dbaaaa",
+        "ANSI Green": "#72c373",
+        "ANSI Green Bold": "#aadbaa",
+        "ANSI Yellow": "#c2c372",
+        "ANSI Yellow Bold": "#dadbaa",
+        "ANSI Blue": "#7372c3",
+        "ANSI Blue Bold": "#aaaadb",
+        "ANSI Magenta": "#c372c2",
+        "ANSI Magenta Bold": "#dbaada",
+        "ANSI Cyan": "#72c2c3",
+        "ANSI Cyan Bold": "#aadadb",
+        "ANSI White": "#d9d9d9",
+        "ANSI White Bold": "#ffffff"
+    }
+}

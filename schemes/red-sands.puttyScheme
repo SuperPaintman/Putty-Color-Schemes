@@ -1,0 +1,27 @@
+{
+    "name": "Red Sands",
+    "colors": {
+        "Default Foreground": "#d7c9a7",
+        "Default Bold Foreground": "#dfbd22",
+        "Default Background": "#7a251e",
+        "Default Bold Background": "#7a251e",
+        "Cursor Text": "#ffffff",
+        "Cursor Colour": "#000000",
+        "ANSI Black": "#000000",
+        "ANSI Black Bold": "#555555",
+        "ANSI Red": "#ff3f00",
+        "ANSI Red Bold": "#bb0000",
+        "ANSI Green": "#00bb00",
+        "ANSI Green Bold": "#00bb00",
+        "ANSI Yellow": "#e7b000",
+        "ANSI Yellow Bold": "#e7b000",
+        "ANSI Blue": "#0072ff",
+        "ANSI Blue Bold": "#0072ae",
+        "ANSI Magenta": "#bb00bb",
+        "ANSI Magenta Bold": "#ff55ff",
+        "ANSI Cyan": "#00bbbb",
+        "ANSI Cyan Bold": "#55ffff",
+        "ANSI White": "#bbbbbb",
+        "ANSI White Bold": "#ffffff"
+    }
+}

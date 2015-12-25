@@ -1,0 +1,27 @@
+{
+    "name": "Monokai Stevelosh",
+    "colors": {
+        "Default Foreground": "#dbdbdb",
+        "Default Bold Foreground": "#ffffff",
+        "Default Background": "#000000",
+        "Default Bold Background": "#000000",
+        "Cursor Text": "#bbbbbb",
+        "Cursor Colour": "#ffffff",
+        "ANSI Black": "#000000",
+        "ANSI Black Bold": "#555555",
+        "ANSI Red": "#e52222",
+        "ANSI Red Bold": "#ff5555",
+        "ANSI Green": "#a6e32d",
+        "ANSI Green Bold": "#55ff55",
+        "ANSI Yellow": "#fc951e",
+        "ANSI Yellow Bold": "#ffff55",
+        "ANSI Blue": "#c48dff",
+        "ANSI Blue Bold": "#5555ff",
+        "ANSI Magenta": "#fa2573",
+        "ANSI Magenta Bold": "#ff55ff",
+        "ANSI Cyan": "#67d9f0",
+        "ANSI Cyan Bold": "#55ffff",
+        "ANSI White": "#f2f2f2",
+        "ANSI White Bold": "#ffffff"
+    }
+}

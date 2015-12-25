@@ -1,0 +1,27 @@
+{
+    "name": "Tomorrow",
+    "colors": {
+        "Default Foreground": "#4d4d4c",
+        "Default Bold Foreground": "#eaeaea",
+        "Default Background": "#fafafa",
+        "Default Bold Background": "#000000",
+        "Cursor Text": "#d6d6d6",
+        "Cursor Colour": "#4d4d4c",
+        "ANSI Black": "#8e908c",
+        "ANSI Black Bold": "#000000",
+        "ANSI Red": "#ff3334",
+        "ANSI Red Bold": "#c82829",
+        "ANSI Green": "#9ec400",
+        "ANSI Green Bold": "#718c00",
+        "ANSI Yellow": "#eab700",
+        "ANSI Yellow Bold": "#f5871f",
+        "ANSI Blue": "#5795e6",
+        "ANSI Blue Bold": "#4271ae",
+        "ANSI Magenta": "#b777e0",
+        "ANSI Magenta Bold": "#8959a8",
+        "ANSI Cyan": "#54ced6",
+        "ANSI Cyan Bold": "#3e999f",
+        "ANSI White": "#efefef",
+        "ANSI White Bold": "#d6d6d6"
+    }
+}

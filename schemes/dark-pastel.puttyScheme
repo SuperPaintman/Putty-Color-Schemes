@@ -1,0 +1,27 @@
+{
+    "name": "Dark Pastel",
+    "colors": {
+        "Default Foreground": "#ffffff",
+        "Default Bold Foreground": "#ff5e7d",
+        "Default Background": "#000000",
+        "Default Bold Background": "#000000",
+        "Cursor Text": "#bbbbbb",
+        "Cursor Colour": "#ffffff",
+        "ANSI Black": "#000000",
+        "ANSI Black Bold": "#555555",
+        "ANSI Red": "#ff5555",
+        "ANSI Red Bold": "#ff5555",
+        "ANSI Green": "#55ff55",
+        "ANSI Green Bold": "#55ff55",
+        "ANSI Yellow": "#ffff55",
+        "ANSI Yellow Bold": "#ffff55",
+        "ANSI Blue": "#5555ff",
+        "ANSI Blue Bold": "#5555ff",
+        "ANSI Magenta": "#ff55ff",
+        "ANSI Magenta Bold": "#ff55ff",
+        "ANSI Cyan": "#55ffff",
+        "ANSI Cyan Bold": "#55ffff",
+        "ANSI White": "#bbbbbb",
+        "ANSI White Bold": "#ffffff"
+    }
+}

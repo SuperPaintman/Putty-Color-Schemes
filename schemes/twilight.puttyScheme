@@ -1,0 +1,27 @@
+{
+    "name": "Twilight",
+    "colors": {
+        "Default Foreground": "#ffffd4",
+        "Default Bold Foreground": "#ffffd4",
+        "Default Background": "#141414",
+        "Default Bold Background": "#141414",
+        "Cursor Text": "#ffffff",
+        "Cursor Colour": "#ffffd4",
+        "ANSI Black": "#141414",
+        "ANSI Black Bold": "#262626",
+        "ANSI Red": "#c06d44",
+        "ANSI Red Bold": "#de7c4c",
+        "ANSI Green": "#afb97a",
+        "ANSI Green Bold": "#ccd88c",
+        "ANSI Yellow": "#c2a86c",
+        "ANSI Yellow Bold": "#e2c47e",
+        "ANSI Blue": "#44474a",
+        "ANSI Blue Bold": "#5a5e62",
+        "ANSI Magenta": "#b4be7c",
+        "ANSI Magenta Bold": "#d0dc8e",
+        "ANSI Cyan": "#778385",
+        "ANSI Cyan Bold": "#8a989b",
+        "ANSI White": "#ffffd4",
+        "ANSI White Bold": "#ffffd4"
+    }
+}

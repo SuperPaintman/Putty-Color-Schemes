@@ -1,0 +1,27 @@
+{
+    "name": "Sundried",
+    "colors": {
+        "Default Foreground": "#c9c9c9",
+        "Default Bold Foreground": "#ffffff",
+        "Default Background": "#1a1818",
+        "Default Bold Background": "#1a1818",
+        "Cursor Text": "#ffffff",
+        "Cursor Colour": "#c9c9c9",
+        "ANSI Black": "#302b2a",
+        "ANSI Black Bold": "#4d4e48",
+        "ANSI Red": "#a7463d",
+        "ANSI Red Bold": "#aa000c",
+        "ANSI Green": "#587744",
+        "ANSI Green Bold": "#128c21",
+        "ANSI Yellow": "#9d602a",
+        "ANSI Yellow Bold": "#fc6a21",
+        "ANSI Blue": "#485b98",
+        "ANSI Blue Bold": "#7999f7",
+        "ANSI Magenta": "#864651",
+        "ANSI Magenta Bold": "#fd8aa1",
+        "ANSI Cyan": "#9c814f",
+        "ANSI Cyan Bold": "#fad484",
+        "ANSI White": "#c9c9c9",
+        "ANSI White Bold": "#ffffff"
+    }
+}

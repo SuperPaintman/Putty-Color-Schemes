@@ -1,0 +1,27 @@
+{
+    "name": "Igvita Light",
+    "colors": {
+        "Default Foreground": "#bbbbbb",
+        "Default Bold Foreground": "#ffffff",
+        "Default Background": "#000000",
+        "Default Bold Background": "#555555",
+        "Cursor Text": "#000000",
+        "Cursor Colour": "#00ff00",
+        "ANSI Black": "#000000",
+        "ANSI Black Bold": "#555555",
+        "ANSI Red": "#bb0000",
+        "ANSI Red Bold": "#ff5555",
+        "ANSI Green": "#98fb98",
+        "ANSI Green Bold": "#55ff55",
+        "ANSI Yellow": "#bbbb00",
+        "ANSI Yellow Bold": "#ffff55",
+        "ANSI Blue": "#035cbe",
+        "ANSI Blue Bold": "#5555ff",
+        "ANSI Magenta": "#bb00bb",
+        "ANSI Magenta Bold": "#ff55ff",
+        "ANSI Cyan": "#ffa0a0",
+        "ANSI Cyan Bold": "#55ffff",
+        "ANSI White": "#bbbbbb",
+        "ANSI White Bold": "#ffffff"
+    }
+}

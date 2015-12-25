@@ -1,0 +1,27 @@
+{
+    "name": "Kibble",
+    "colors": {
+        "Default Foreground": "#f7f7f7",
+        "Default Bold Foreground": "#ca631e",
+        "Default Background": "#0e100a",
+        "Default Bold Background": "#0e100a",
+        "Cursor Text": "#9fda9c",
+        "Cursor Colour": "#f7f7f7",
+        "ANSI Black": "#4d4d4d",
+        "ANSI Black Bold": "#5a5a5a",
+        "ANSI Red": "#c70031",
+        "ANSI Red Bold": "#f01578",
+        "ANSI Green": "#29cf13",
+        "ANSI Green Bold": "#6ce05c",
+        "ANSI Yellow": "#d8e30e",
+        "ANSI Yellow Bold": "#f3f79e",
+        "ANSI Blue": "#3449d1",
+        "ANSI Blue Bold": "#97a4f7",
+        "ANSI Magenta": "#8400ff",
+        "ANSI Magenta Bold": "#c495f0",
+        "ANSI Cyan": "#0798ab",
+        "ANSI Cyan Bold": "#68f2e0",
+        "ANSI White": "#e2d1e3",
+        "ANSI White Bold": "#ffffff"
+    }
+}

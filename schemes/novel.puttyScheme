@@ -1,0 +1,27 @@
+{
+    "name": "Novel",
+    "colors": {
+        "Default Foreground": "#3b2322",
+        "Default Bold Foreground": "#8e2a19",
+        "Default Background": "#dfdbc3",
+        "Default Bold Background": "#dfdbc3",
+        "Cursor Text": "#73635a",
+        "Cursor Colour": "#000000",
+        "ANSI Black": "#000000",
+        "ANSI Black Bold": "#808080",
+        "ANSI Red": "#cc0000",
+        "ANSI Red Bold": "#cc0000",
+        "ANSI Green": "#009600",
+        "ANSI Green Bold": "#009600",
+        "ANSI Yellow": "#d06b00",
+        "ANSI Yellow Bold": "#d06b00",
+        "ANSI Blue": "#0000cc",
+        "ANSI Blue Bold": "#0000cc",
+        "ANSI Magenta": "#cc00cc",
+        "ANSI Magenta Bold": "#cc00cc",
+        "ANSI Cyan": "#0087cc",
+        "ANSI Cyan Bold": "#0087cc",
+        "ANSI White": "#cccccc",
+        "ANSI White Bold": "#ffffff"
+    }
+}

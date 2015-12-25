@@ -1,0 +1,27 @@
+{
+    "name": "Tomorrow Night",
+    "colors": {
+        "Default Foreground": "#c5c8c6",
+        "Default Bold Foreground": "#eaeaea",
+        "Default Background": "#1d1f21",
+        "Default Bold Background": "#000000",
+        "Cursor Text": "#c5c8c6",
+        "Cursor Colour": "#c5c8c6",
+        "ANSI Black": "#1d1f21",
+        "ANSI Black Bold": "#000000",
+        "ANSI Red": "#cc6666",
+        "ANSI Red Bold": "#d54e53",
+        "ANSI Green": "#b5bd68",
+        "ANSI Green Bold": "#b9ca4a",
+        "ANSI Yellow": "#f0c674",
+        "ANSI Yellow Bold": "#e7c547",
+        "ANSI Blue": "#81a2be",
+        "ANSI Blue Bold": "#7aa6da",
+        "ANSI Magenta": "#b294bb",
+        "ANSI Magenta Bold": "#c397d8",
+        "ANSI Cyan": "#8abeb7",
+        "ANSI Cyan Bold": "#70c0b1",
+        "ANSI White": "#c0c8c6",
+        "ANSI White Bold": "#eaeaea"
+    }
+}

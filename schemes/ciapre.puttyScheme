@@ -1,0 +1,27 @@
+{
+    "name": "Ciapre",
+    "colors": {
+        "Default Foreground": "#aea47a",
+        "Default Bold Foreground": "#f4f4f4",
+        "Default Background": "#191c27",
+        "Default Bold Background": "#191c27",
+        "Cursor Text": "#92805b",
+        "Cursor Colour": "#aea47a",
+        "ANSI Black": "#181818",
+        "ANSI Black Bold": "#555555",
+        "ANSI Red": "#810009",
+        "ANSI Red Bold": "#ac3835",
+        "ANSI Green": "#48513b",
+        "ANSI Green Bold": "#a6a75d",
+        "ANSI Yellow": "#cc8b3f",
+        "ANSI Yellow Bold": "#dcdf7c",
+        "ANSI Blue": "#576d8c",
+        "ANSI Blue Bold": "#3097c6",
+        "ANSI Magenta": "#724d7c",
+        "ANSI Magenta Bold": "#d33061",
+        "ANSI Cyan": "#5c4f4b",
+        "ANSI Cyan Bold": "#f3dbb2",
+        "ANSI White": "#aea47f",
+        "ANSI White Bold": "#f4f4f4"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Seafoam Pastel",
+    "colors": {
+        "Default Foreground": "#d4e7d4",
+        "Default Bold Foreground": "#648890",
+        "Default Background": "#243435",
+        "Default Bold Background": "#243435",
+        "Cursor Text": "#57647a",
+        "Cursor Colour": "#d4e7d4",
+        "ANSI Black": "#757575",
+        "ANSI Black Bold": "#8a8a8a",
+        "ANSI Red": "#825d4d",
+        "ANSI Red Bold": "#cf937a",
+        "ANSI Green": "#728c62",
+        "ANSI Green Bold": "#98d9aa",
+        "ANSI Yellow": "#ada16d",
+        "ANSI Yellow Bold": "#fae79d",
+        "ANSI Blue": "#4d7b82",
+        "ANSI Blue Bold": "#7ac3cf",
+        "ANSI Magenta": "#8a7267",
+        "ANSI Magenta Bold": "#d6b2a1",
+        "ANSI Cyan": "#729494",
+        "ANSI Cyan Bold": "#ade0e0",
+        "ANSI White": "#e0e0e0",
+        "ANSI White Bold": "#e0e0e0"
+    }
+}

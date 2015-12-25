@@ -1,0 +1,27 @@
+{
+    "name": "Espresso",
+    "colors": {
+        "Default Foreground": "#ffffff",
+        "Default Bold Foreground": "#ffffff",
+        "Default Background": "#323232",
+        "Default Bold Background": "#323232",
+        "Cursor Text": "#d6d6d6",
+        "Cursor Colour": "#ffffff",
+        "ANSI Black": "#353535",
+        "ANSI Black Bold": "#535353",
+        "ANSI Red": "#d25252",
+        "ANSI Red Bold": "#f00c0c",
+        "ANSI Green": "#a5c261",
+        "ANSI Green Bold": "#c2e075",
+        "ANSI Yellow": "#ffc66d",
+        "ANSI Yellow Bold": "#e1e48b",
+        "ANSI Blue": "#6c99bb",
+        "ANSI Blue Bold": "#8ab7d9",
+        "ANSI Magenta": "#d197d9",
+        "ANSI Magenta Bold": "#efb5f7",
+        "ANSI Cyan": "#bed6ff",
+        "ANSI Cyan Bold": "#dcf4ff",
+        "ANSI White": "#eeeeec",
+        "ANSI White Bold": "#ffffff"
+    }
+}

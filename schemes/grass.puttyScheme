@@ -1,0 +1,27 @@
+{
+    "name": "Grass",
+    "colors": {
+        "Default Foreground": "#fff0a5",
+        "Default Bold Foreground": "#ffb03b",
+        "Default Background": "#13773d",
+        "Default Bold Background": "#13773d",
+        "Cursor Text": "#8c2800",
+        "Cursor Colour": "#ffffff",
+        "ANSI Black": "#000000",
+        "ANSI Black Bold": "#555555",
+        "ANSI Red": "#bb0000",
+        "ANSI Red Bold": "#bb0000",
+        "ANSI Green": "#00bb00",
+        "ANSI Green Bold": "#00bb00",
+        "ANSI Yellow": "#e7b000",
+        "ANSI Yellow Bold": "#e7b000",
+        "ANSI Blue": "#0000a3",
+        "ANSI Blue Bold": "#0000bb",
+        "ANSI Magenta": "#950062",
+        "ANSI Magenta Bold": "#ff55ff",
+        "ANSI Cyan": "#00bbbb",
+        "ANSI Cyan Bold": "#55ffff",
+        "ANSI White": "#bbbbbb",
+        "ANSI White Bold": "#ffffff"
+    }
+}

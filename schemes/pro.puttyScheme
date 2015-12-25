@@ -1,0 +1,27 @@
+{
+    "name": "Pro",
+    "colors": {
+        "Default Foreground": "#f2f2f2",
+        "Default Bold Foreground": "#ffffff",
+        "Default Background": "#000000",
+        "Default Bold Background": "#000000",
+        "Cursor Text": "#4d4d4d",
+        "Cursor Colour": "#ffffff",
+        "ANSI Black": "#000000",
+        "ANSI Black Bold": "#666666",
+        "ANSI Red": "#990000",
+        "ANSI Red Bold": "#e50000",
+        "ANSI Green": "#00a600",
+        "ANSI Green Bold": "#00d900",
+        "ANSI Yellow": "#999900",
+        "ANSI Yellow Bold": "#e5e500",
+        "ANSI Blue": "#2009db",
+        "ANSI Blue Bold": "#0000ff",
+        "ANSI Magenta": "#b200b2",
+        "ANSI Magenta Bold": "#e500e5",
+        "ANSI Cyan": "#00a6b2",
+        "ANSI Cyan Bold": "#00e5e5",
+        "ANSI White": "#bfbfbf",
+        "ANSI White Bold": "#e5e5e5"
+    }
+}

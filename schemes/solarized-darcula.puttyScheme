@@ -1,0 +1,27 @@
+{
+    "name": "Solarized Darcula",
+    "colors": {
+        "Default Foreground": "#d2d8d9",
+        "Default Bold Foreground": "#ececec",
+        "Default Background": "#3d3f41",
+        "Default Bold Background": "#3d3f41",
+        "Cursor Text": "#708284",
+        "Cursor Colour": "#002831",
+        "ANSI Black": "#25292a",
+        "ANSI Black Bold": "#25292a",
+        "ANSI Red": "#f24840",
+        "ANSI Red Bold": "#f24840",
+        "ANSI Green": "#629655",
+        "ANSI Green Bold": "#629655",
+        "ANSI Yellow": "#b68800",
+        "ANSI Yellow Bold": "#b68800",
+        "ANSI Blue": "#2075c7",
+        "ANSI Blue Bold": "#2075c7",
+        "ANSI Magenta": "#797fd4",
+        "ANSI Magenta Bold": "#797fd4",
+        "ANSI Cyan": "#15968d",
+        "ANSI Cyan Bold": "#15968d",
+        "ANSI White": "#d2d8d9",
+        "ANSI White Bold": "#d2d8d9"
+    }
+}
