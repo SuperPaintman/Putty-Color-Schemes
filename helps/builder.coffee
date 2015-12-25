@@ -81,7 +81,7 @@ convertAllSchemes = ->
 
                 ("#{regColor}#{spaces}")[0...32]
 
-            reg = ejs.render template, {
+            result = ejs.render template, {
                 name: encodeURIComponent scheme.name.toLowerCase()
                 colors: colors
             }
@@ -89,12 +89,34 @@ convertAllSchemes = ->
             filename = _.kebabCase(scheme.name)
             new Promise (resolve, reject)->
                 fs.writeFile "../schemesReg/putty-#{ filename }.reg"
-                    , reg
+                    , result
                     , 'utf8'
                     , (err)->
                         if err then reject(err)
                         else resolve()
 
-convertAllSchemes()
+convertReadme = ->
+    Promise.map loadAllSchemes(), (name)->
+        loadScheme(name)
+    .then (schemes)->
+        template = fs.readFileSync("../templates/_README.md").toString()
+
+        result = ejs.render template, {
+            schemes
+            _
+        }
+
+        new Promise (resolve, reject)->
+            fs.writeFile "../README.md"
+                , result
+                , 'utf8'
+                , (err)->
+                    if err then reject(err)
+                    else resolve()
+
+Promise.all [
+    convertAllSchemes()
+    convertReadme()
+]
 .then ->
     console.log "Done"
