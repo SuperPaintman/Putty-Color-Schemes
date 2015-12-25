@@ -4,6 +4,7 @@
 ## <%= scheme.name %>
 **Console**
 ![screenshot](/examples/console-<%= _.kebabCase(scheme.name) %>.png)
+
 **Vim**
 ![screenshot](/examples/vim-<%= _.kebabCase(scheme.name) %>.png)
 
