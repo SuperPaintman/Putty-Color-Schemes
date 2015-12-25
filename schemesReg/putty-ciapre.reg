@@ -1,0 +1,33 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\ciapre]
+"Colour0"="174,164,122"                     ; Default Foreground
+"Colour1"="244,244,244"                     ; Default Bold Foreground
+"Colour2"="25,28,39"                        ; Default Background
+"Colour3"="25,28,39"                        ; Default Bold Background
+"Colour4"="146,128,91"                      ; Cursor Text
+"Colour5"="174,164,122"                     ; Cursor Colour
+"Colour6"="24,24,24"                        ; ANSI Black
+"Colour7"="85,85,85"                        ; ANSI Black Bold
+"Colour8"="129,0,9"                         ; ANSI Red
+"Colour9"="172,56,53"                       ; ANSI Red Bold
+"Colour10"="72,81,59"                       ; ANSI Green
+"Colour11"="166,167,93"                     ; ANSI Green Bold
+"Colour12"="204,139,63"                     ; ANSI Yellow
+"Colour13"="220,223,124"                    ; ANSI Yellow Bold
+"Colour14"="87,109,140"                     ; ANSI Blue
+"Colour15"="48,151,198"                     ; ANSI Blue Bold
+"Colour16"="114,77,124"                     ; ANSI Magenta
+"Colour17"="211,48,97"                      ; ANSI Magenta Bold
+"Colour18"="92,79,75"                       ; ANSI Cyan
+"Colour19"="243,219,178"                    ; ANSI Cyan Bold
+"Colour20"="174,164,127"                    ; ANSI White
+"Colour21"="244,244,244"                    ; ANSI White Bold
+"LineCodePage"="UTF-8"
+"Xterm256Colour"=dword:00000001
+"UseSystemColours"=dword:00000000
+"FontHeight"=dword:00000009
+"FontIsBold"=dword:00000000
+"Font"="Consolas"
+"Beep"=dword:00000002
+"BeepInd"=dword:00000000

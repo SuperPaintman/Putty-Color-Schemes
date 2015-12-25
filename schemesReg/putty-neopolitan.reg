@@ -1,0 +1,33 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\neopolitan]
+"Colour0"="255,255,255"                     ; Default Foreground
+"Colour1"="255,255,255"                     ; Default Bold Foreground
+"Colour2"="23,19,16"                        ; Default Background
+"Colour3"="23,19,16"                        ; Default Bold Background
+"Colour4"="255,255,255"                     ; Cursor Text
+"Colour5"="255,255,255"                     ; Cursor Colour
+"Colour6"="23,19,16"                        ; ANSI Black
+"Colour7"="23,19,16"                        ; ANSI Black Bold
+"Colour8"="128,0,0"                         ; ANSI Red
+"Colour9"="128,0,0"                         ; ANSI Red Bold
+"Colour10"="97,206,60"                      ; ANSI Green
+"Colour11"="97,206,60"                      ; ANSI Green Bold
+"Colour12"="251,222,45"                     ; ANSI Yellow
+"Colour13"="251,222,45"                     ; ANSI Yellow Bold
+"Colour14"="37,59,118"                      ; ANSI Blue
+"Colour15"="37,59,118"                      ; ANSI Blue Bold
+"Colour16"="255,0,128"                      ; ANSI Magenta
+"Colour17"="255,0,128"                      ; ANSI Magenta Bold
+"Colour18"="141,166,206"                    ; ANSI Cyan
+"Colour19"="141,166,206"                    ; ANSI Cyan Bold
+"Colour20"="248,248,248"                    ; ANSI White
+"Colour21"="248,248,248"                    ; ANSI White Bold
+"LineCodePage"="UTF-8"
+"Xterm256Colour"=dword:00000001
+"UseSystemColours"=dword:00000000
+"FontHeight"=dword:00000009
+"FontIsBold"=dword:00000000
+"Font"="Consolas"
+"Beep"=dword:00000002
+"BeepInd"=dword:00000000

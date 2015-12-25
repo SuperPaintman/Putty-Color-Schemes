@@ -1,0 +1,33 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\monokai%20dimmed]
+"Colour0"="185,188,186"                     ; Default Foreground
+"Colour1"="254,255,178"                     ; Default Bold Foreground
+"Colour2"="31,31,31"                        ; Default Background
+"Colour3"="31,31,31"                        ; Default Bold Background
+"Colour4"="248,62,25"                       ; Cursor Text
+"Colour5"="185,188,186"                     ; Cursor Colour
+"Colour6"="58,61,67"                        ; ANSI Black
+"Colour7"="136,137,135"                     ; ANSI Black Bold
+"Colour8"="190,63,72"                       ; ANSI Red
+"Colour9"="251,0,31"                        ; ANSI Red Bold
+"Colour10"="135,154,59"                     ; ANSI Green
+"Colour11"="15,114,47"                      ; ANSI Green Bold
+"Colour12"="197,166,53"                     ; ANSI Yellow
+"Colour13"="196,112,51"                     ; ANSI Yellow Bold
+"Colour14"="79,118,161"                     ; ANSI Blue
+"Colour15"="24,109,227"                     ; ANSI Blue Bold
+"Colour16"="133,92,141"                     ; ANSI Magenta
+"Colour17"="251,0,103"                      ; ANSI Magenta Bold
+"Colour18"="87,143,164"                     ; ANSI Cyan
+"Colour19"="46,112,109"                     ; ANSI Cyan Bold
+"Colour20"="185,188,186"                    ; ANSI White
+"Colour21"="253,255,185"                    ; ANSI White Bold
+"LineCodePage"="UTF-8"
+"Xterm256Colour"=dword:00000001
+"UseSystemColours"=dword:00000000
+"FontHeight"=dword:00000009
+"FontIsBold"=dword:00000000
+"Font"="Consolas"
+"Beep"=dword:00000002
+"BeepInd"=dword:00000000

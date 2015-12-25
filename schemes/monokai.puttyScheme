@@ -1,0 +1,27 @@
+{
+    "name": "Monokai",
+    "colors": {
+        "Default Foreground": "#f8f8f2",
+        "Default Bold Foreground": "#f8f8f2",
+        "Default Background": "#272822",
+        "Default Bold Background": "#272822",
+        "Cursor Text": "#000000",
+        "Cursor Colour": "#ff8000",
+        "ANSI Black": "#000000",
+        "ANSI Black Bold": "#555555",
+        "ANSI Red": "#f92672",
+        "ANSI Red Bold": "#dd4278",
+        "ANSI Green": "#a6e22e",
+        "ANSI Green Bold": "#9dc54b",
+        "ANSI Yellow": "#e6db74",
+        "ANSI Yellow Bold": "#d1ca89",
+        "ANSI Blue": "#66d9ef",
+        "ANSI Blue Bold": "#7accda",
+        "ANSI Magenta": "#ae81ff",
+        "ANSI Magenta Bold": "#b392ef",
+        "ANSI Cyan": "#00d9d9",
+        "ANSI Cyan Bold": "#c8f0f0",
+        "ANSI White": "#f5deb3",
+        "ANSI White Bold": "#ffffff"
+    }
+}

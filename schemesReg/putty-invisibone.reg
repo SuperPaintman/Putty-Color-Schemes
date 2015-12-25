@@ -1,0 +1,33 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\invisibone]
+"Colour0"="160,160,160"                     ; Default Foreground
+"Colour1"="207,207,207"                     ; Default Bold Foreground
+"Colour2"="35,35,35"                        ; Default Background
+"Colour3"="35,35,35"                        ; Default Bold Background
+"Colour4"="160,160,160"                     ; Cursor Text
+"Colour5"="160,160,160"                     ; Cursor Colour
+"Colour6"="48,48,48"                        ; ANSI Black
+"Colour7"="104,104,104"                     ; ANSI Black Bold
+"Colour8"="211,112,163"                     ; ANSI Red
+"Colour9"="255,167,218"                     ; ANSI Red Bold
+"Colour10"="109,158,63"                     ; ANSI Green
+"Colour11"="163,213,114"                    ; ANSI Green Bold
+"Colour12"="181,136,88"                     ; ANSI Yellow
+"Colour13"="239,189,139"                    ; ANSI Yellow Bold
+"Colour14"="96,149,197"                     ; ANSI Blue
+"Colour15"="152,203,254"                    ; ANSI Blue Bold
+"Colour16"="172,123,222"                    ; ANSI Magenta
+"Colour17"="229,176,255"                    ; ANSI Magenta Bold
+"Colour18"="59,162,117"                     ; ANSI Cyan
+"Colour19"="117,218,169"                    ; ANSI Cyan Bold
+"Colour20"="207,207,207"                    ; ANSI White
+"Colour21"="255,255,255"                    ; ANSI White Bold
+"LineCodePage"="UTF-8"
+"Xterm256Colour"=dword:00000001
+"UseSystemColours"=dword:00000000
+"FontHeight"=dword:00000009
+"FontIsBold"=dword:00000000
+"Font"="Consolas"
+"Beep"=dword:00000002
+"BeepInd"=dword:00000000

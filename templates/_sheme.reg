@@ -1,0 +1,33 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\<%- name %>]
+"Colour0"=<%- colors['Colour0']  %>  ; Default Foreground
+"Colour1"=<%- colors['Colour1']  %>  ; Default Bold Foreground
+"Colour2"=<%- colors['Colour2']  %>  ; Default Background
+"Colour3"=<%- colors['Colour3']  %>  ; Default Bold Background
+"Colour4"=<%- colors['Colour4']  %>  ; Cursor Text
+"Colour5"=<%- colors['Colour5']  %>  ; Cursor Colour
+"Colour6"=<%- colors['Colour6']  %>  ; ANSI Black
+"Colour7"=<%- colors['Colour7']  %>  ; ANSI Black Bold
+"Colour8"=<%- colors['Colour8']  %>  ; ANSI Red
+"Colour9"=<%- colors['Colour9']  %>  ; ANSI Red Bold
+"Colour10"=<%- colors['Colour10'] %> ; ANSI Green
+"Colour11"=<%- colors['Colour11'] %> ; ANSI Green Bold
+"Colour12"=<%- colors['Colour12'] %> ; ANSI Yellow
+"Colour13"=<%- colors['Colour13'] %> ; ANSI Yellow Bold
+"Colour14"=<%- colors['Colour14'] %> ; ANSI Blue
+"Colour15"=<%- colors['Colour15'] %> ; ANSI Blue Bold
+"Colour16"=<%- colors['Colour16'] %> ; ANSI Magenta
+"Colour17"=<%- colors['Colour17'] %> ; ANSI Magenta Bold
+"Colour18"=<%- colors['Colour18'] %> ; ANSI Cyan
+"Colour19"=<%- colors['Colour19'] %> ; ANSI Cyan Bold
+"Colour20"=<%- colors['Colour20'] %> ; ANSI White
+"Colour21"=<%- colors['Colour21'] %> ; ANSI White Bold
+"LineCodePage"="UTF-8"
+"Xterm256Colour"=dword:00000001
+"UseSystemColours"=dword:00000000
+"FontHeight"=dword:00000009
+"FontIsBold"=dword:00000000
+"Font"="Consolas"
+"Beep"=dword:00000002
+"BeepInd"=dword:00000000

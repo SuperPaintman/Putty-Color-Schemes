@@ -1,0 +1,33 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\fish%20tank]
+"Colour0"="236,240,254"                     ; Default Foreground
+"Colour1"="246,255,235"                     ; Default Bold Foreground
+"Colour2"="35,37,55"                        ; Default Background
+"Colour3"="35,37,55"                        ; Default Bold Background
+"Colour4"="254,205,94"                      ; Cursor Text
+"Colour5"="236,240,254"                     ; Cursor Colour
+"Colour6"="3,7,60"                          ; ANSI Black
+"Colour7"="108,91,48"                       ; ANSI Black Bold
+"Colour8"="198,0,74"                        ; ANSI Red
+"Colour9"="218,75,138"                      ; ANSI Red Bold
+"Colour10"="172,241,87"                     ; ANSI Green
+"Colour11"="219,255,169"                    ; ANSI Green Bold
+"Colour12"="254,205,94"                     ; ANSI Yellow
+"Colour13"="254,230,169"                    ; ANSI Yellow Bold
+"Colour14"="82,95,184"                      ; ANSI Blue
+"Colour15"="178,190,250"                    ; ANSI Blue Bold
+"Colour16"="152,111,130"                    ; ANSI Magenta
+"Colour17"="253,165,205"                    ; ANSI Magenta Bold
+"Colour18"="150,135,99"                     ; ANSI Cyan
+"Colour19"="165,189,134"                    ; ANSI Cyan Bold
+"Colour20"="236,240,252"                    ; ANSI White
+"Colour21"="246,255,236"                    ; ANSI White Bold
+"LineCodePage"="UTF-8"
+"Xterm256Colour"=dword:00000001
+"UseSystemColours"=dword:00000000
+"FontHeight"=dword:00000009
+"FontIsBold"=dword:00000000
+"Font"="Consolas"
+"Beep"=dword:00000002
+"BeepInd"=dword:00000000

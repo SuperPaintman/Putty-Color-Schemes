@@ -1,0 +1,33 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\papirus%20dark]
+"Colour0"="209,195,184"                     ; Default Foreground
+"Colour1"="209,195,184"                     ; Default Bold Foreground
+"Colour2"="46,44,40"                        ; Default Background
+"Colour3"="46,44,40"                        ; Default Bold Background
+"Colour4"="209,195,184"                     ; Cursor Text
+"Colour5"="209,195,184"                     ; Cursor Colour
+"Colour6"="113,115,112"                     ; ANSI Black
+"Colour7"="46,44,40"                        ; ANSI Black Bold
+"Colour8"="140,115,90"                      ; ANSI Red
+"Colour9"="153,138,122"                     ; ANSI Red Bold
+"Colour10"="174,196,149"                    ; ANSI Green
+"Colour11"="180,204,153"                    ; ANSI Green Bold
+"Colour12"="191,187,153"                    ; ANSI Yellow
+"Colour13"="230,227,202"                    ; ANSI Yellow Bold
+"Colour14"="136,161,186"                    ; ANSI Blue
+"Colour15"="136,161,186"                    ; ANSI Blue Bold
+"Colour16"="109,104,113"                    ; ANSI Magenta
+"Colour17"="148,141,153"                    ; ANSI Magenta Bold
+"Colour18"="92,83,70"                       ; ANSI Cyan
+"Colour19"="122,135,53"                     ; ANSI Cyan Bold
+"Colour20"="200,185,114"                    ; ANSI White
+"Colour21"="228,221,150"                    ; ANSI White Bold
+"LineCodePage"="UTF-8"
+"Xterm256Colour"=dword:00000001
+"UseSystemColours"=dword:00000000
+"FontHeight"=dword:00000009
+"FontIsBold"=dword:00000000
+"Font"="Consolas"
+"Beep"=dword:00000002
+"BeepInd"=dword:00000000

@@ -1,0 +1,33 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\sundried]
+"Colour0"="201,201,201"                     ; Default Foreground
+"Colour1"="255,255,255"                     ; Default Bold Foreground
+"Colour2"="26,24,24"                        ; Default Background
+"Colour3"="26,24,24"                        ; Default Bold Background
+"Colour4"="255,255,255"                     ; Cursor Text
+"Colour5"="201,201,201"                     ; Cursor Colour
+"Colour6"="48,43,42"                        ; ANSI Black
+"Colour7"="77,78,72"                        ; ANSI Black Bold
+"Colour8"="167,70,61"                       ; ANSI Red
+"Colour9"="170,0,12"                        ; ANSI Red Bold
+"Colour10"="88,119,68"                      ; ANSI Green
+"Colour11"="18,140,33"                      ; ANSI Green Bold
+"Colour12"="157,96,42"                      ; ANSI Yellow
+"Colour13"="252,106,33"                     ; ANSI Yellow Bold
+"Colour14"="72,91,152"                      ; ANSI Blue
+"Colour15"="121,153,247"                    ; ANSI Blue Bold
+"Colour16"="134,70,81"                      ; ANSI Magenta
+"Colour17"="253,138,161"                    ; ANSI Magenta Bold
+"Colour18"="156,129,79"                     ; ANSI Cyan
+"Colour19"="250,212,132"                    ; ANSI Cyan Bold
+"Colour20"="201,201,201"                    ; ANSI White
+"Colour21"="255,255,255"                    ; ANSI White Bold
+"LineCodePage"="UTF-8"
+"Xterm256Colour"=dword:00000001
+"UseSystemColours"=dword:00000000
+"FontHeight"=dword:00000009
+"FontIsBold"=dword:00000000
+"Font"="Consolas"
+"Beep"=dword:00000002
+"BeepInd"=dword:00000000

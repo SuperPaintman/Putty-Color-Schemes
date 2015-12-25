@@ -1,0 +1,33 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\github]
+"Colour0"="62,62,62"                        ; Default Foreground
+"Colour1"="201,85,0"                        ; Default Bold Foreground
+"Colour2"="244,244,244"                     ; Default Background
+"Colour3"="244,244,244"                     ; Default Bold Background
+"Colour4"="63,63,63"                        ; Cursor Text
+"Colour5"="62,62,62"                        ; Cursor Colour
+"Colour6"="62,62,62"                        ; ANSI Black
+"Colour7"="102,102,102"                     ; ANSI Black Bold
+"Colour8"="151,11,22"                       ; ANSI Red
+"Colour9"="222,0,0"                         ; ANSI Red Bold
+"Colour10"="7,150,42"                       ; ANSI Green
+"Colour11"="135,213,162"                    ; ANSI Green Bold
+"Colour12"="248,238,199"                    ; ANSI Yellow
+"Colour13"="241,208,7"                      ; ANSI Yellow Bold
+"Colour14"="0,62,138"                       ; ANSI Blue
+"Colour15"="46,108,186"                     ; ANSI Blue Bold
+"Colour16"="233,70,145"                     ; ANSI Magenta
+"Colour17"="255,162,159"                    ; ANSI Magenta Bold
+"Colour18"="137,209,236"                    ; ANSI Cyan
+"Colour19"="28,250,254"                     ; ANSI Cyan Bold
+"Colour20"="255,255,255"                    ; ANSI White
+"Colour21"="255,255,255"                    ; ANSI White Bold
+"LineCodePage"="UTF-8"
+"Xterm256Colour"=dword:00000001
+"UseSystemColours"=dword:00000000
+"FontHeight"=dword:00000009
+"FontIsBold"=dword:00000000
+"Font"="Consolas"
+"Beep"=dword:00000002
+"BeepInd"=dword:00000000

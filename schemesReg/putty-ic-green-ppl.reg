@@ -1,0 +1,33 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\ic%20green%20ppl]
+"Colour0"="217,239,211"                     ; Default Foreground
+"Colour1"="159,255,109"                     ; Default Bold Foreground
+"Colour2"="58,61,63"                        ; Default Background
+"Colour3"="58,61,63"                        ; Default Bold Background
+"Colour4"="66,255,88"                       ; Cursor Text
+"Colour5"="217,239,211"                     ; Cursor Colour
+"Colour6"="31,31,31"                        ; ANSI Black
+"Colour7"="3,39,16"                         ; ANSI Black Bold
+"Colour8"="251,0,42"                        ; ANSI Red
+"Colour9"="167,255,63"                      ; ANSI Red Bold
+"Colour10"="51,156,36"                      ; ANSI Green
+"Colour11"="159,255,109"                    ; ANSI Green Bold
+"Colour12"="101,155,37"                     ; ANSI Yellow
+"Colour13"="210,255,109"                    ; ANSI Yellow Bold
+"Colour14"="20,155,69"                      ; ANSI Blue
+"Colour15"="114,255,181"                    ; ANSI Blue Bold
+"Colour16"="83,184,44"                      ; ANSI Magenta
+"Colour17"="80,255,62"                      ; ANSI Magenta Bold
+"Colour18"="44,184,104"                     ; ANSI Cyan
+"Colour19"="34,255,113"                     ; ANSI Cyan Bold
+"Colour20"="224,255,239"                    ; ANSI White
+"Colour21"="218,239,208"                    ; ANSI White Bold
+"LineCodePage"="UTF-8"
+"Xterm256Colour"=dword:00000001
+"UseSystemColours"=dword:00000000
+"FontHeight"=dword:00000009
+"FontIsBold"=dword:00000000
+"Font"="Consolas"
+"Beep"=dword:00000002
+"BeepInd"=dword:00000000

@@ -1,0 +1,33 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\solarized%20light]
+"Colour0"="101,123,131"                     ; Default Foreground
+"Colour1"="88,110,117"                      ; Default Bold Foreground
+"Colour2"="253,246,227"                     ; Default Background
+"Colour3"="238,232,213"                     ; Default Bold Background
+"Colour4"="238,232,213"                     ; Cursor Text
+"Colour5"="101,123,131"                     ; Cursor Colour
+"Colour6"="7,54,66"                         ; ANSI Black
+"Colour7"="0,43,54"                         ; ANSI Black Bold
+"Colour8"="220,50,47"                       ; ANSI Red
+"Colour9"="203,75,22"                       ; ANSI Red Bold
+"Colour10"="133,153,0"                      ; ANSI Green
+"Colour11"="88,110,117"                     ; ANSI Green Bold
+"Colour12"="181,137,0"                      ; ANSI Yellow
+"Colour13"="101,123,131"                    ; ANSI Yellow Bold
+"Colour14"="38,139,210"                     ; ANSI Blue
+"Colour15"="131,148,150"                    ; ANSI Blue Bold
+"Colour16"="211,54,130"                     ; ANSI Magenta
+"Colour17"="108,113,196"                    ; ANSI Magenta Bold
+"Colour18"="42,161,152"                     ; ANSI Cyan
+"Colour19"="147,161,161"                    ; ANSI Cyan Bold
+"Colour20"="238,232,213"                    ; ANSI White
+"Colour21"="253,246,227"                    ; ANSI White Bold
+"LineCodePage"="UTF-8"
+"Xterm256Colour"=dword:00000001
+"UseSystemColours"=dword:00000000
+"FontHeight"=dword:00000009
+"FontIsBold"=dword:00000000
+"Font"="Consolas"
+"Beep"=dword:00000002
+"BeepInd"=dword:00000000

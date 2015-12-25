@@ -1,0 +1,33 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\solarized%20darcula]
+"Colour0"="210,216,217"                     ; Default Foreground
+"Colour1"="236,236,236"                     ; Default Bold Foreground
+"Colour2"="61,63,65"                        ; Default Background
+"Colour3"="61,63,65"                        ; Default Bold Background
+"Colour4"="112,130,132"                     ; Cursor Text
+"Colour5"="0,40,49"                         ; Cursor Colour
+"Colour6"="37,41,42"                        ; ANSI Black
+"Colour7"="37,41,42"                        ; ANSI Black Bold
+"Colour8"="242,72,64"                       ; ANSI Red
+"Colour9"="242,72,64"                       ; ANSI Red Bold
+"Colour10"="98,150,85"                      ; ANSI Green
+"Colour11"="98,150,85"                      ; ANSI Green Bold
+"Colour12"="182,136,0"                      ; ANSI Yellow
+"Colour13"="182,136,0"                      ; ANSI Yellow Bold
+"Colour14"="32,117,199"                     ; ANSI Blue
+"Colour15"="32,117,199"                     ; ANSI Blue Bold
+"Colour16"="121,127,212"                    ; ANSI Magenta
+"Colour17"="121,127,212"                    ; ANSI Magenta Bold
+"Colour18"="21,150,141"                     ; ANSI Cyan
+"Colour19"="21,150,141"                     ; ANSI Cyan Bold
+"Colour20"="210,216,217"                    ; ANSI White
+"Colour21"="210,216,217"                    ; ANSI White Bold
+"LineCodePage"="UTF-8"
+"Xterm256Colour"=dword:00000001
+"UseSystemColours"=dword:00000000
+"FontHeight"=dword:00000009
+"FontIsBold"=dword:00000000
+"Font"="Consolas"
+"Beep"=dword:00000002
+"BeepInd"=dword:00000000

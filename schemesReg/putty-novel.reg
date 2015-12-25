@@ -1,0 +1,33 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\novel]
+"Colour0"="59,35,34"                        ; Default Foreground
+"Colour1"="142,42,25"                       ; Default Bold Foreground
+"Colour2"="223,219,195"                     ; Default Background
+"Colour3"="223,219,195"                     ; Default Bold Background
+"Colour4"="115,99,90"                       ; Cursor Text
+"Colour5"="0,0,0"                           ; Cursor Colour
+"Colour6"="0,0,0"                           ; ANSI Black
+"Colour7"="128,128,128"                     ; ANSI Black Bold
+"Colour8"="204,0,0"                         ; ANSI Red
+"Colour9"="204,0,0"                         ; ANSI Red Bold
+"Colour10"="0,150,0"                        ; ANSI Green
+"Colour11"="0,150,0"                        ; ANSI Green Bold
+"Colour12"="208,107,0"                      ; ANSI Yellow
+"Colour13"="208,107,0"                      ; ANSI Yellow Bold
+"Colour14"="0,0,204"                        ; ANSI Blue
+"Colour15"="0,0,204"                        ; ANSI Blue Bold
+"Colour16"="204,0,204"                      ; ANSI Magenta
+"Colour17"="204,0,204"                      ; ANSI Magenta Bold
+"Colour18"="0,135,204"                      ; ANSI Cyan
+"Colour19"="0,135,204"                      ; ANSI Cyan Bold
+"Colour20"="204,204,204"                    ; ANSI White
+"Colour21"="255,255,255"                    ; ANSI White Bold
+"LineCodePage"="UTF-8"
+"Xterm256Colour"=dword:00000001
+"UseSystemColours"=dword:00000000
+"FontHeight"=dword:00000009
+"FontIsBold"=dword:00000000
+"Font"="Consolas"
+"Beep"=dword:00000002
+"BeepInd"=dword:00000000

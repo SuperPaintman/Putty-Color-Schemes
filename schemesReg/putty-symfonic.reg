@@ -1,0 +1,33 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\symfonic]
+"Colour0"="255,255,255"                     ; Default Foreground
+"Colour1"="255,132,0"                       ; Default Bold Foreground
+"Colour2"="0,0,0"                           ; Default Background
+"Colour3"="0,0,0"                           ; Default Bold Background
+"Colour4"="220,50,47"                       ; Cursor Text
+"Colour5"="255,255,255"                     ; Cursor Colour
+"Colour6"="0,0,0"                           ; ANSI Black
+"Colour7"="27,29,33"                        ; ANSI Black Bold
+"Colour8"="220,50,47"                       ; ANSI Red
+"Colour9"="220,50,47"                       ; ANSI Red Bold
+"Colour10"="86,219,58"                      ; ANSI Green
+"Colour11"="86,219,58"                      ; ANSI Green Bold
+"Colour12"="255,132,0"                      ; ANSI Yellow
+"Colour13"="255,132,0"                      ; ANSI Yellow Bold
+"Colour14"="0,132,212"                      ; ANSI Blue
+"Colour15"="0,132,212"                      ; ANSI Blue Bold
+"Colour16"="183,41,217"                     ; ANSI Magenta
+"Colour17"="183,41,217"                     ; ANSI Magenta Bold
+"Colour18"="204,204,255"                    ; ANSI Cyan
+"Colour19"="204,204,255"                    ; ANSI Cyan Bold
+"Colour20"="255,255,255"                    ; ANSI White
+"Colour21"="255,255,255"                    ; ANSI White Bold
+"LineCodePage"="UTF-8"
+"Xterm256Colour"=dword:00000001
+"UseSystemColours"=dword:00000000
+"FontHeight"=dword:00000009
+"FontIsBold"=dword:00000000
+"Font"="Consolas"
+"Beep"=dword:00000002
+"BeepInd"=dword:00000000

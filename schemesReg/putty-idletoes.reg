@@ -1,0 +1,33 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions\idletoes]
+"Colour0"="255,255,255"                     ; Default Foreground
+"Colour1"="255,255,169"                     ; Default Bold Foreground
+"Colour2"="50,50,50"                        ; Default Background
+"Colour3"="50,50,50"                        ; Default Bold Background
+"Colour4"="214,214,214"                     ; Cursor Text
+"Colour5"="255,255,255"                     ; Cursor Colour
+"Colour6"="50,50,50"                        ; ANSI Black
+"Colour7"="83,83,83"                        ; ANSI Black Bold
+"Colour8"="210,82,82"                       ; ANSI Red
+"Colour9"="240,112,112"                     ; ANSI Red Bold
+"Colour10"="127,225,115"                    ; ANSI Green
+"Colour11"="157,255,145"                    ; ANSI Green Bold
+"Colour12"="255,198,109"                    ; ANSI Yellow
+"Colour13"="255,228,139"                    ; ANSI Yellow Bold
+"Colour14"="64,153,255"                     ; ANSI Blue
+"Colour15"="94,183,247"                     ; ANSI Blue Bold
+"Colour16"="246,128,255"                    ; ANSI Magenta
+"Colour17"="255,157,255"                    ; ANSI Magenta Bold
+"Colour18"="190,214,255"                    ; ANSI Cyan
+"Colour19"="220,244,255"                    ; ANSI Cyan Bold
+"Colour20"="238,238,236"                    ; ANSI White
+"Colour21"="255,255,255"                    ; ANSI White Bold
+"LineCodePage"="UTF-8"
+"Xterm256Colour"=dword:00000001
+"UseSystemColours"=dword:00000000
+"FontHeight"=dword:00000009
+"FontIsBold"=dword:00000000
+"Font"="Consolas"
+"Beep"=dword:00000002
+"BeepInd"=dword:00000000
