@@ -2,10 +2,10 @@
 
 <% _.forEach(schemes, function(scheme){ -%>
 ## <%= scheme.name %>
-**Console**
-![screenshot](/examples/console-<%= _.kebabCase(scheme.name) %>.png)
+#### Terminale
+![screenshot](/examples/terminale-<%= _.kebabCase(scheme.name) %>.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-<%= _.kebabCase(scheme.name) %>.png)
 
 <% }) -%>

@@ -1,359 +1,359 @@
 # Putty color schemes
 
 ## Apple Terminal
-**Console**
+#### Console
 ![screenshot](/examples/console-apple-terminal.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-apple-terminal.png)
 
 ## Argonaut
-**Console**
+#### Console
 ![screenshot](/examples/console-argonaut.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-argonaut.png)
 
 ## Birds Of Paradise
-**Console**
+#### Console
 ![screenshot](/examples/console-birds-of-paradise.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-birds-of-paradise.png)
 
 ## Blazer
-**Console**
+#### Console
 ![screenshot](/examples/console-blazer.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-blazer.png)
 
 ## Chalkboard
-**Console**
+#### Console
 ![screenshot](/examples/console-chalkboard.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-chalkboard.png)
 
 ## Ciapre
-**Console**
+#### Console
 ![screenshot](/examples/console-ciapre.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-ciapre.png)
 
 ## Dark Pastel
-**Console**
+#### Console
 ![screenshot](/examples/console-dark-pastel.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-dark-pastel.png)
 
 ## Desert
-**Console**
+#### Console
 ![screenshot](/examples/console-desert.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-desert.png)
 
 ## Espresso
-**Console**
+#### Console
 ![screenshot](/examples/console-espresso.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-espresso.png)
 
 ## Fish Of Paradise
-**Console**
+#### Console
 ![screenshot](/examples/console-fish-of-paradise.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-fish-of-paradise.png)
 
 ## Fish Tank
-**Console**
+#### Console
 ![screenshot](/examples/console-fish-tank.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-fish-tank.png)
 
 ## Github
-**Console**
+#### Console
 ![screenshot](/examples/console-github.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-github.png)
 
 ## Grass
-**Console**
+#### Console
 ![screenshot](/examples/console-grass.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-grass.png)
 
 ## Highway
-**Console**
+#### Console
 ![screenshot](/examples/console-highway.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-highway.png)
 
 ## Homebrew
-**Console**
+#### Console
 ![screenshot](/examples/console-homebrew.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-homebrew.png)
 
 ## Hurtado
-**Console**
+#### Console
 ![screenshot](/examples/console-hurtado.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-hurtado.png)
 
 ## Ic Green Ppl
-**Console**
+#### Console
 ![screenshot](/examples/console-ic-green-ppl.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-ic-green-ppl.png)
 
 ## Idletoes
-**Console**
+#### Console
 ![screenshot](/examples/console-idletoes.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-idletoes.png)
 
 ## Igvita Desert
-**Console**
+#### Console
 ![screenshot](/examples/console-igvita-desert.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-igvita-desert.png)
 
 ## Igvita Light
-**Console**
+#### Console
 ![screenshot](/examples/console-igvita-light.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-igvita-light.png)
 
 ## Invisibone
-**Console**
+#### Console
 ![screenshot](/examples/console-invisibone.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-invisibone.png)
 
 ## Kibble
-**Console**
+#### Console
 ![screenshot](/examples/console-kibble.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-kibble.png)
 
 ## Liquid Carbon Transparent Inverse
-**Console**
+#### Console
 ![screenshot](/examples/console-liquid-carbon-transparent-inverse.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-liquid-carbon-transparent-inverse.png)
 
 ## Liquid Carbon Transparent
-**Console**
+#### Console
 ![screenshot](/examples/console-liquid-carbon-transparent.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-liquid-carbon-transparent.png)
 
 ## Liquid Carbon
-**Console**
+#### Console
 ![screenshot](/examples/console-liquid-carbon.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-liquid-carbon.png)
 
 ## Man Page
-**Console**
+#### Console
 ![screenshot](/examples/console-man-page.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-man-page.png)
 
 ## Monokai Dimmed
-**Console**
+#### Console
 ![screenshot](/examples/console-monokai-dimmed.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-monokai-dimmed.png)
 
 ## Monokai Soda
-**Console**
+#### Console
 ![screenshot](/examples/console-monokai-soda.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-monokai-soda.png)
 
 ## Monokai Stevelosh
-**Console**
+#### Console
 ![screenshot](/examples/console-monokai-stevelosh.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-monokai-stevelosh.png)
 
 ## Monokai
-**Console**
+#### Console
 ![screenshot](/examples/console-monokai.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-monokai.png)
 
 ## Neopolitan
-**Console**
+#### Console
 ![screenshot](/examples/console-neopolitan.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-neopolitan.png)
 
 ## Novel
-**Console**
+#### Console
 ![screenshot](/examples/console-novel.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-novel.png)
 
 ## Ocean
-**Console**
+#### Console
 ![screenshot](/examples/console-ocean.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-ocean.png)
 
 ## Papirus Dark
-**Console**
+#### Console
 ![screenshot](/examples/console-papirus-dark.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-papirus-dark.png)
 
 ## Pro
-**Console**
+#### Console
 ![screenshot](/examples/console-pro.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-pro.png)
 
 ## Red Sands
-**Console**
+#### Console
 ![screenshot](/examples/console-red-sands.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-red-sands.png)
 
 ## Seafoam Pastel
-**Console**
+#### Console
 ![screenshot](/examples/console-seafoam-pastel.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-seafoam-pastel.png)
 
 ## Solarized Darcula
-**Console**
+#### Console
 ![screenshot](/examples/console-solarized-darcula.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-solarized-darcula.png)
 
 ## Solarized Dark
-**Console**
+#### Console
 ![screenshot](/examples/console-solarized-dark.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-solarized-dark.png)
 
 ## Solarized Light
-**Console**
+#### Console
 ![screenshot](/examples/console-solarized-light.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-solarized-light.png)
 
 ## Sundried
-**Console**
+#### Console
 ![screenshot](/examples/console-sundried.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-sundried.png)
 
 ## Symfonic
-**Console**
+#### Console
 ![screenshot](/examples/console-symfonic.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-symfonic.png)
 
 ## Teerb
-**Console**
+#### Console
 ![screenshot](/examples/console-teerb.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-teerb.png)
 
 ## Terminal Basic
-**Console**
+#### Console
 ![screenshot](/examples/console-terminal-basic.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-terminal-basic.png)
 
 ## Thayer
-**Console**
+#### Console
 ![screenshot](/examples/console-thayer.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-thayer.png)
 
 ## Tomorrow Night
-**Console**
+#### Console
 ![screenshot](/examples/console-tomorrow-night.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-tomorrow-night.png)
 
 ## Tomorrow
-**Console**
+#### Console
 ![screenshot](/examples/console-tomorrow.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-tomorrow.png)
 
 ## Twilight
-**Console**
+#### Console
 ![screenshot](/examples/console-twilight.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-twilight.png)
 
 ## Vaughn
-**Console**
+#### Console
 ![screenshot](/examples/console-vaughn.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-vaughn.png)
 
 ## X Dotshare
-**Console**
+#### Console
 ![screenshot](/examples/console-x-dotshare.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-x-dotshare.png)
 
 ## Zenburn
-**Console**
+#### Console
 ![screenshot](/examples/console-zenburn.png)
 
-**Vim**
+#### Vim
 ![screenshot](/examples/vim-zenburn.png)
 

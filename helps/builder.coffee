@@ -2,6 +2,7 @@ fs          = require 'fs'
 
 Promise     = require 'bluebird'
 ejs         = require 'ejs'
+stylus      = require 'stylus'
 _           = require 'lodash'
 
 colorNameToID = (name)->
@@ -114,9 +115,31 @@ convertReadme = ->
                     if err then reject(err)
                     else resolve()
 
-Promise.all [
-    convertAllSchemes()
-    convertReadme()
-]
-.then ->
-    console.log "Done"
+convertTerminal = ->
+    Promise.map loadAllSchemes(), (name)->
+        loadScheme(name)
+    .then (schemes)->
+        template = fs.readFileSync("../templates/terminale.styl").toString()
+
+        Promise.map schemes, (scheme)->
+            scheme.colors = _.mapKeys scheme.colors, (val, key)->
+                _.kebabCase(key)
+
+            new Promise (resolve, reject)->
+                stylus(template)
+                .define "colors", scheme.colors, true
+                .render (err, css)->
+                    if err then reject(err)
+                    else resolve(css)
+            .then (css)->
+                console.log css
+
+convertTerminal()
+
+
+# Promise.all [
+#     convertAllSchemes()
+#     convertReadme()
+# ]
+# .then ->
+#     console.log "Done"
