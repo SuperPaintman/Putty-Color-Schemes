@@ -134,12 +134,12 @@ convertTerminal = ->
             .then (css)->
                 console.log css
 
-convertTerminal()
+# convertTerminal()
 
 
-# Promise.all [
-#     convertAllSchemes()
-#     convertReadme()
-# ]
-# .then ->
-#     console.log "Done"
+Promise.all [
+    convertAllSchemes()
+    convertReadme()
+]
+.then ->
+    console.log "Done"
