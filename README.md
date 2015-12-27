@@ -56,359 +56,155 @@ Finished theme added to the folder `schemesReg` with name in **kebab-case**.
 
 ## Themes
 ### Apple Terminal
-#### Terminale
-![screenshot](/examples/terminale-apple-terminal.png)
-
-#### Vim
-![screenshot](/examples/vim-apple-terminal.png)
-
+#### Screenshot
+![screenshot](/examples/example-apple-terminal.png)
 ### Argonaut
-#### Terminale
-![screenshot](/examples/terminale-argonaut.png)
-
-#### Vim
-![screenshot](/examples/vim-argonaut.png)
-
+#### Screenshot
+![screenshot](/examples/example-argonaut.png)
 ### Birds Of Paradise
-#### Terminale
-![screenshot](/examples/terminale-birds-of-paradise.png)
-
-#### Vim
-![screenshot](/examples/vim-birds-of-paradise.png)
-
+#### Screenshot
+![screenshot](/examples/example-birds-of-paradise.png)
 ### Blazer
-#### Terminale
-![screenshot](/examples/terminale-blazer.png)
-
-#### Vim
-![screenshot](/examples/vim-blazer.png)
-
+#### Screenshot
+![screenshot](/examples/example-blazer.png)
 ### Chalkboard
-#### Terminale
-![screenshot](/examples/terminale-chalkboard.png)
-
-#### Vim
-![screenshot](/examples/vim-chalkboard.png)
-
+#### Screenshot
+![screenshot](/examples/example-chalkboard.png)
 ### Ciapre
-#### Terminale
-![screenshot](/examples/terminale-ciapre.png)
-
-#### Vim
-![screenshot](/examples/vim-ciapre.png)
-
+#### Screenshot
+![screenshot](/examples/example-ciapre.png)
 ### Dark Pastel
-#### Terminale
-![screenshot](/examples/terminale-dark-pastel.png)
-
-#### Vim
-![screenshot](/examples/vim-dark-pastel.png)
-
+#### Screenshot
+![screenshot](/examples/example-dark-pastel.png)
 ### Desert
-#### Terminale
-![screenshot](/examples/terminale-desert.png)
-
-#### Vim
-![screenshot](/examples/vim-desert.png)
-
+#### Screenshot
+![screenshot](/examples/example-desert.png)
 ### Espresso
-#### Terminale
-![screenshot](/examples/terminale-espresso.png)
-
-#### Vim
-![screenshot](/examples/vim-espresso.png)
-
+#### Screenshot
+![screenshot](/examples/example-espresso.png)
 ### Fish Of Paradise
-#### Terminale
-![screenshot](/examples/terminale-fish-of-paradise.png)
-
-#### Vim
-![screenshot](/examples/vim-fish-of-paradise.png)
-
+#### Screenshot
+![screenshot](/examples/example-fish-of-paradise.png)
 ### Fish Tank
-#### Terminale
-![screenshot](/examples/terminale-fish-tank.png)
-
-#### Vim
-![screenshot](/examples/vim-fish-tank.png)
-
+#### Screenshot
+![screenshot](/examples/example-fish-tank.png)
 ### Github
-#### Terminale
-![screenshot](/examples/terminale-github.png)
-
-#### Vim
-![screenshot](/examples/vim-github.png)
-
+#### Screenshot
+![screenshot](/examples/example-github.png)
 ### Grass
-#### Terminale
-![screenshot](/examples/terminale-grass.png)
-
-#### Vim
-![screenshot](/examples/vim-grass.png)
-
+#### Screenshot
+![screenshot](/examples/example-grass.png)
 ### Highway
-#### Terminale
-![screenshot](/examples/terminale-highway.png)
-
-#### Vim
-![screenshot](/examples/vim-highway.png)
-
+#### Screenshot
+![screenshot](/examples/example-highway.png)
 ### Homebrew
-#### Terminale
-![screenshot](/examples/terminale-homebrew.png)
-
-#### Vim
-![screenshot](/examples/vim-homebrew.png)
-
+#### Screenshot
+![screenshot](/examples/example-homebrew.png)
 ### Hurtado
-#### Terminale
-![screenshot](/examples/terminale-hurtado.png)
-
-#### Vim
-![screenshot](/examples/vim-hurtado.png)
-
+#### Screenshot
+![screenshot](/examples/example-hurtado.png)
 ### Ic Green Ppl
-#### Terminale
-![screenshot](/examples/terminale-ic-green-ppl.png)
-
-#### Vim
-![screenshot](/examples/vim-ic-green-ppl.png)
-
+#### Screenshot
+![screenshot](/examples/example-ic-green-ppl.png)
 ### Idletoes
-#### Terminale
-![screenshot](/examples/terminale-idletoes.png)
-
-#### Vim
-![screenshot](/examples/vim-idletoes.png)
-
+#### Screenshot
+![screenshot](/examples/example-idletoes.png)
 ### Igvita Desert
-#### Terminale
-![screenshot](/examples/terminale-igvita-desert.png)
-
-#### Vim
-![screenshot](/examples/vim-igvita-desert.png)
-
+#### Screenshot
+![screenshot](/examples/example-igvita-desert.png)
 ### Igvita Light
-#### Terminale
-![screenshot](/examples/terminale-igvita-light.png)
-
-#### Vim
-![screenshot](/examples/vim-igvita-light.png)
-
+#### Screenshot
+![screenshot](/examples/example-igvita-light.png)
 ### Invisibone
-#### Terminale
-![screenshot](/examples/terminale-invisibone.png)
-
-#### Vim
-![screenshot](/examples/vim-invisibone.png)
-
+#### Screenshot
+![screenshot](/examples/example-invisibone.png)
 ### Kibble
-#### Terminale
-![screenshot](/examples/terminale-kibble.png)
-
-#### Vim
-![screenshot](/examples/vim-kibble.png)
-
+#### Screenshot
+![screenshot](/examples/example-kibble.png)
 ### Liquid Carbon Transparent Inverse
-#### Terminale
-![screenshot](/examples/terminale-liquid-carbon-transparent-inverse.png)
-
-#### Vim
-![screenshot](/examples/vim-liquid-carbon-transparent-inverse.png)
-
+#### Screenshot
+![screenshot](/examples/example-liquid-carbon-transparent-inverse.png)
 ### Liquid Carbon Transparent
-#### Terminale
-![screenshot](/examples/terminale-liquid-carbon-transparent.png)
-
-#### Vim
-![screenshot](/examples/vim-liquid-carbon-transparent.png)
-
+#### Screenshot
+![screenshot](/examples/example-liquid-carbon-transparent.png)
 ### Liquid Carbon
-#### Terminale
-![screenshot](/examples/terminale-liquid-carbon.png)
-
-#### Vim
-![screenshot](/examples/vim-liquid-carbon.png)
-
+#### Screenshot
+![screenshot](/examples/example-liquid-carbon.png)
 ### Man Page
-#### Terminale
-![screenshot](/examples/terminale-man-page.png)
-
-#### Vim
-![screenshot](/examples/vim-man-page.png)
-
+#### Screenshot
+![screenshot](/examples/example-man-page.png)
 ### Monokai Dimmed
-#### Terminale
-![screenshot](/examples/terminale-monokai-dimmed.png)
-
-#### Vim
-![screenshot](/examples/vim-monokai-dimmed.png)
-
+#### Screenshot
+![screenshot](/examples/example-monokai-dimmed.png)
 ### Monokai Soda
-#### Terminale
-![screenshot](/examples/terminale-monokai-soda.png)
-
-#### Vim
-![screenshot](/examples/vim-monokai-soda.png)
-
+#### Screenshot
+![screenshot](/examples/example-monokai-soda.png)
 ### Monokai Stevelosh
-#### Terminale
-![screenshot](/examples/terminale-monokai-stevelosh.png)
-
-#### Vim
-![screenshot](/examples/vim-monokai-stevelosh.png)
-
+#### Screenshot
+![screenshot](/examples/example-monokai-stevelosh.png)
 ### Monokai
-#### Terminale
-![screenshot](/examples/terminale-monokai.png)
-
-#### Vim
-![screenshot](/examples/vim-monokai.png)
-
+#### Screenshot
+![screenshot](/examples/example-monokai.png)
 ### Neopolitan
-#### Terminale
-![screenshot](/examples/terminale-neopolitan.png)
-
-#### Vim
-![screenshot](/examples/vim-neopolitan.png)
-
+#### Screenshot
+![screenshot](/examples/example-neopolitan.png)
 ### Novel
-#### Terminale
-![screenshot](/examples/terminale-novel.png)
-
-#### Vim
-![screenshot](/examples/vim-novel.png)
-
+#### Screenshot
+![screenshot](/examples/example-novel.png)
 ### Ocean
-#### Terminale
-![screenshot](/examples/terminale-ocean.png)
-
-#### Vim
-![screenshot](/examples/vim-ocean.png)
-
+#### Screenshot
+![screenshot](/examples/example-ocean.png)
 ### Papirus Dark
-#### Terminale
-![screenshot](/examples/terminale-papirus-dark.png)
-
-#### Vim
-![screenshot](/examples/vim-papirus-dark.png)
-
+#### Screenshot
+![screenshot](/examples/example-papirus-dark.png)
 ### Pro
-#### Terminale
-![screenshot](/examples/terminale-pro.png)
-
-#### Vim
-![screenshot](/examples/vim-pro.png)
-
+#### Screenshot
+![screenshot](/examples/example-pro.png)
 ### Red Sands
-#### Terminale
-![screenshot](/examples/terminale-red-sands.png)
-
-#### Vim
-![screenshot](/examples/vim-red-sands.png)
-
+#### Screenshot
+![screenshot](/examples/example-red-sands.png)
 ### Seafoam Pastel
-#### Terminale
-![screenshot](/examples/terminale-seafoam-pastel.png)
-
-#### Vim
-![screenshot](/examples/vim-seafoam-pastel.png)
-
+#### Screenshot
+![screenshot](/examples/example-seafoam-pastel.png)
 ### Solarized Darcula
-#### Terminale
-![screenshot](/examples/terminale-solarized-darcula.png)
-
-#### Vim
-![screenshot](/examples/vim-solarized-darcula.png)
-
+#### Screenshot
+![screenshot](/examples/example-solarized-darcula.png)
 ### Solarized Dark
-#### Terminale
-![screenshot](/examples/terminale-solarized-dark.png)
-
-#### Vim
-![screenshot](/examples/vim-solarized-dark.png)
-
+#### Screenshot
+![screenshot](/examples/example-solarized-dark.png)
 ### Solarized Light
-#### Terminale
-![screenshot](/examples/terminale-solarized-light.png)
-
-#### Vim
-![screenshot](/examples/vim-solarized-light.png)
-
+#### Screenshot
+![screenshot](/examples/example-solarized-light.png)
 ### Sundried
-#### Terminale
-![screenshot](/examples/terminale-sundried.png)
-
-#### Vim
-![screenshot](/examples/vim-sundried.png)
-
+#### Screenshot
+![screenshot](/examples/example-sundried.png)
 ### Symfonic
-#### Terminale
-![screenshot](/examples/terminale-symfonic.png)
-
-#### Vim
-![screenshot](/examples/vim-symfonic.png)
-
+#### Screenshot
+![screenshot](/examples/example-symfonic.png)
 ### Teerb
-#### Terminale
-![screenshot](/examples/terminale-teerb.png)
-
-#### Vim
-![screenshot](/examples/vim-teerb.png)
-
+#### Screenshot
+![screenshot](/examples/example-teerb.png)
 ### Terminal Basic
-#### Terminale
-![screenshot](/examples/terminale-terminal-basic.png)
-
-#### Vim
-![screenshot](/examples/vim-terminal-basic.png)
-
+#### Screenshot
+![screenshot](/examples/example-terminal-basic.png)
 ### Thayer
-#### Terminale
-![screenshot](/examples/terminale-thayer.png)
-
-#### Vim
-![screenshot](/examples/vim-thayer.png)
-
+#### Screenshot
+![screenshot](/examples/example-thayer.png)
 ### Tomorrow Night
-#### Terminale
-![screenshot](/examples/terminale-tomorrow-night.png)
-
-#### Vim
-![screenshot](/examples/vim-tomorrow-night.png)
-
+#### Screenshot
+![screenshot](/examples/example-tomorrow-night.png)
 ### Tomorrow
-#### Terminale
-![screenshot](/examples/terminale-tomorrow.png)
-
-#### Vim
-![screenshot](/examples/vim-tomorrow.png)
-
+#### Screenshot
+![screenshot](/examples/example-tomorrow.png)
 ### Twilight
-#### Terminale
-![screenshot](/examples/terminale-twilight.png)
-
-#### Vim
-![screenshot](/examples/vim-twilight.png)
-
+#### Screenshot
+![screenshot](/examples/example-twilight.png)
 ### Vaughn
-#### Terminale
-![screenshot](/examples/terminale-vaughn.png)
-
-#### Vim
-![screenshot](/examples/vim-vaughn.png)
-
+#### Screenshot
+![screenshot](/examples/example-vaughn.png)
 ### X Dotshare
-#### Terminale
-![screenshot](/examples/terminale-x-dotshare.png)
-
-#### Vim
-![screenshot](/examples/vim-x-dotshare.png)
-
+#### Screenshot
+![screenshot](/examples/example-x-dotshare.png)
 ### Zenburn
-#### Terminale
-![screenshot](/examples/terminale-zenburn.png)
-
-#### Vim
-![screenshot](/examples/vim-zenburn.png)
-
+#### Screenshot
+![screenshot](/examples/example-zenburn.png)

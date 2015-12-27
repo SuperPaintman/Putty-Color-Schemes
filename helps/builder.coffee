@@ -1,9 +1,23 @@
 fs          = require 'fs'
+{spawn}     = require 'child_process'
+
+phantomjs   = require 'phantomjs'
 
 Promise     = require 'bluebird'
 ejs         = require 'ejs'
 stylus      = require 'stylus'
 _           = require 'lodash'
+express     = require 'express'
+jade        = require 'jade'
+
+Visualizer  = require 'console-visualizer'
+ 
+visual = new Visualizer({
+    progress:
+        scale:
+            fill: "="
+            half: "-"
+})
 
 colorNameToID = (name)->
     switch name
@@ -115,31 +129,77 @@ convertReadme = ->
                     if err then reject(err)
                     else resolve()
 
-convertTerminal = ->
-    Promise.map loadAllSchemes(), (name)->
-        loadScheme(name)
+# Screenshots
+convertExapmle = ->
+    # Server
+    app = express()
+    server = undefined
+
+    new Promise (resolve, reject)->
+        server = app.listen 3700, ->
+            resolve()
+    .then ->
+        Promise.map loadAllSchemes(), (name)->
+            loadScheme(name)
     .then (schemes)->
-        template = fs.readFileSync("../templates/terminale.styl").toString()
+        templateCSS = fs.readFileSync("../templates/terminale.styl").toString()
+
+        templateHTML = fs.readFileSync("../templates/terminale.jade").toString()
+        templateHTML = jade.compile(templateHTML)
+
+        p = (scheme)-> new Promise (resolve, reject)->
+            scheme.colors = _.mapKeys scheme.colors, (val, key)->
+                _.kebabCase colorNameToID(key)
+
+            # Disable Cache
+            app._router = undefined
+
+            app.get '/', (req, res)->
+                new Promise (resolveCSS, rejectCSS)->
+                    stylus(templateCSS)
+                    .set "cache"        , false
+                    .define "colors"    , scheme.colors, true
+                    .render (err, css)->
+                        if err then rejectCSS(err)
+                        else resolveCSS(css)
+                .then (css)->
+                    res.send templateHTML({css: css})
+
+            ###*
+             * Phantom
+            ###
+            phantom = spawn phantomjs.path, [
+                './phantom.coffee'
+                "--name=../examples/example-#{ _.kebabCase(scheme.name) }.png"
+                "--port=#{3700}"
+                "-w=#{888}"
+                "-h=#{120}"
+            ]
+
+            phantom.stdout.on 'data', (data)->
+                console.log 'phantom:', data.toString()
+
+            phantom.stderr.on 'data', (data)->
+                console.log 'phantom:', data.toString()
+
+            phantom.on 'close', (code)->
+                resolve()
+
+        steps = _.size(schemes)
+        curStep = 0
 
         Promise.map schemes, (scheme)->
-            scheme.colors = _.mapKeys scheme.colors, (val, key)->
-                _.kebabCase(key)
-
-            new Promise (resolve, reject)->
-                stylus(template)
-                .define "colors", scheme.colors, true
-                .render (err, css)->
-                    if err then reject(err)
-                    else resolve(css)
-            .then (css)->
-                console.log css
-
-# convertTerminal()
-
+            visual.clear()
+            visual.drawProgress(0, ++curStep, steps)
+            p(scheme)
+        , {concurrency: 1}
+        .then ->
+            server.close()
 
 Promise.all [
     convertAllSchemes()
     convertReadme()
+    convertExapmle()
 ]
 .then ->
     console.log "Done"

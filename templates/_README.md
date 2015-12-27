@@ -57,12 +57,8 @@ Finished theme added to the folder `schemesReg` with name in **kebab-case**.
 ## Themes
 <% _.forEach(schemes, function(scheme){ -%>
 ### <%= scheme.name %>
-#### Terminale
-![screenshot](/examples/terminale-<%= _.kebabCase(scheme.name) %>.png)
-
-#### Vim
-![screenshot](/examples/vim-<%= _.kebabCase(scheme.name) %>.png)
-
+#### Screenshot
+![screenshot](/examples/example-<%= _.kebabCase(scheme.name) %>.png)
 <% }) -%>
 <%
 // ## Default
